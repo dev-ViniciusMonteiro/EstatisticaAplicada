@@ -1,6 +1,6 @@
 //testes
 
-x = [10,11,9]
+x = [10,11,9,9]
 
 
 console.log(x)
@@ -16,3 +16,9 @@ console.log(somandoArray)
 
 const media = somandoArray/x.length
 console.log(media)
+
+const moda = require('./moda')
+var Amoda = moda.moda(x)
+console.log(Amoda)
+
+
