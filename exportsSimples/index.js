@@ -14,8 +14,9 @@ const somaArray = require('./somaArray')
 var somandoArray = somaArray.somandoArray(y)
 console.log(somandoArray)
 
-const media = somandoArray/x.length
-console.log(media)
+const media = require('./media')
+var amedia = media.media([5,5,5,5,6])
+console.log(amedia)
 
 const moda = require('./moda')
 var Amoda = moda.moda(x)

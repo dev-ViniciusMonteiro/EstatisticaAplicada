@@ -34,3 +34,8 @@ function mode(numbers) {
 
 
 //console.log(mode([ 5, 4, 1, 2, 3,'cu','co','lo']))
+
+
+// const moda = require('./moda')
+// var Amoda = moda.moda(x)
+// console.log(Amoda)

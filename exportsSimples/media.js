@@ -1,15 +1,15 @@
-
+//tudo ok
+const somaArray = require('./somaArray')
 
 module.exports = { 
-    x: [],
     media(x){
-        mediA(x)
+        return mediA(x)
     }
 }
 
+
 function mediA(x){
-    var y = insertion(x,x.length)
-    return y
+    return (somaArray.somandoArray(x)/x.length)
 }
 
 
@@ -17,7 +17,9 @@ function mediA(x){
 
 
 
-
+// const media = require('./media')
+// var amedia = media.media([5,5,5,5,6])
+// console.log(amedia)
 
 
 
