@@ -1,4 +1,4 @@
-//tudo ok
+//tudo ok!!!
 const somaArray = require('./somaArray')
 
 module.exports = { 

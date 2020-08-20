@@ -8,18 +8,22 @@ console.log(x)
 
 const ordenar = require('./insertion')
 var y = ordenar.ordernar(x)
-console.log(y)
+console.log('X- Ordenado:'+y)
 
 const somaArray = require('./somaArray')
 var somandoArray = somaArray.somandoArray(y)
-console.log(somandoArray)
+console.log('Soma de x:'+somandoArray)
 
 const media = require('./media')
-var amedia = media.media([5,5,5,5,6])
-console.log(amedia)
+var amedia = media.media(x)
+console.log('Media de x:'+amedia)
 
 const moda = require('./moda')
 var Amoda = moda.moda(x)
-console.log(Amoda)
+console.log('Moda de x:'+Amoda)
+
+const mediana = require('./mediana')
+var meda = mediana.mediana(x)
+console.log('Mediana de x:'+meda)
 
 
