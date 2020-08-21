@@ -10,3 +10,4 @@ Estatística aplicada a ciência de dados
 -soma de todos numeros de um array - somaArray.js                                                                                                        
 -media de um array - media.js                                                                                                                              
 -mediana - mediana.js
+-fatorial de um numero 5! - fatorial.js
