@@ -11,4 +11,5 @@ Estatística aplicada a ciência de dados
 -media de um array - media.js                                                                                                                              
 -mediana - mediana.js
 -fatorial de um numero 5! - fatorial.js
-functtion de primeiro grau -x 
+x- functtion de primeiro grau -x 
+x- margeSort - margeSort.js
