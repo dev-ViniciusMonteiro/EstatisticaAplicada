@@ -5,7 +5,7 @@ const ordenar = require('./insertion')
 
 module.exports={
     mediana(array){
-        ordenado = ordenar.ordernar(array)
+        ordenado = ordenar.insertion(array)
         par = conta(ordenado)
         final = []
         if(par==1){
