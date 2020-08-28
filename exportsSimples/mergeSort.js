@@ -1,5 +1,11 @@
 //tudo ok!!!
-var mergeSort = function(array) {
+module.exports = { 
+    merge(x){
+    return mergeSort(x) //devido a recursao da direita e da esquerda temos que chamar a funcao para se alto chamar(callback)!!!
+}
+}
+
+function mergeSort(array) {
     if (array.length === 1) {//se so tiver 1 numero
       return array//retorna ele (vai retornar no meio da funcao ali em baixo que divide no meio)
     } else {
@@ -25,17 +31,17 @@ var mergeSort = function(array) {
   };
   
   // Tests:
-  var array1 = [9,4]
-   console.log('array final com 2 numeros: ' + mergeSort(array1))
-   console.log('__________________________________________')
+//   var array1 = [9,4]
+//    console.log('array final com 2 numeros: ' + mergeSort(array1))
+//    console.log('__________________________________________')
 
 
-  var array2 = [3,6,9,2]
-   console.log('array final com 4 numeros: ' + mergeSort(array2))
-   console.log('__________________________________________')
+//   var array2 = [3,6,9,2]
+//    console.log('array final com 4 numeros: ' + mergeSort(array2))
+//    console.log('__________________________________________')
 
-   var array3 = [9,4,5,6,7,3,7,9]
-   console.log('array final com 2 numeros: ' + mergeSort(array3))
+//    var array3 = [9,4,5,6,7,3,7,9]
+//    console.log('array final com 2 numeros: ' + mergeSort(array3))
 
    /*var x = () => {
      var n = []
@@ -45,5 +51,3 @@ var mergeSort = function(array) {
      return n
     }
     mergeSort(x())*/
-   
-   

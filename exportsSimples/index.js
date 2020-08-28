@@ -1,6 +1,6 @@
 //testes
 
-x = [10,11,9]
+x = [0.5, 1, 2, 3, 2.5, 4, 4.5]
 
 
 // console.log(x)
@@ -31,8 +31,12 @@ x = [10,11,9]
 // console.log(contafatorial)
 
 
-const primeirograu = require('./funcaoPrimeiroGrau')
-var pgrau = primeirograu.primeiroGrausY(-2,0,0)
-console.log(pgrau)
+// const primeirograu = require('./funcaoPrimeiroGrau')
+// var pgrau = primeirograu.primeiroGrausY(-2,0,0)
+// console.log(pgrau)
+
+const margsort = require('./mergeSort')
+var marg = margsort.merge(x)
+console.log(marg)
 
 
