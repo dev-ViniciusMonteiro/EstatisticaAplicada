@@ -35,8 +35,11 @@ x = [0.5, 1, 2, 3, 2.5, 4, 4.5]
 // var pgrau = primeirograu.primeiroGrausY(-2,0,0)
 // console.log(pgrau)
 
-const margsort = require('./mergeSort')
-var marg = margsort.merge(x)
-console.log(marg)
+// const margsort = require('./mergeSort')
+// var marg = margsort.merge(x)
+// console.log(marg)
 
+// const distanciaPlanoCartesiano = require('./MenorDistanciaDoisPontos')
+// var menorDistancia = distanciaPlanoCartesiano.menorDistanciaDoisPontos([-3,-11,2,1])
+// console.log(menorDistancia)
 

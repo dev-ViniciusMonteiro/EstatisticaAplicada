@@ -1,5 +1,6 @@
-
-function distanciaDoisPontos(array){//par = x ; impar = y
+//tudo ok!!
+module.exports = { 
+    menorDistanciaDoisPontos(array){//par = x ; impar = y
     var distance = 0 
     var maior = 9**9**9**9
     for(x=0;x<array.length;x=x+2){//xa = [0] ya = [1] 
@@ -10,14 +11,11 @@ function distanciaDoisPontos(array){//par = x ; impar = y
         }
     }
     return maior;
+    }
 }
 
 
 
-
 //             xa ya xb yb 
-var arrayyy = [-3,-11,2,1]
-console.log(distanciaDoisPontos(arrayyy))
-
-
-
+// var arrayyy = [-3,-11,2,1]
+// console.log(distanciaDoisPontos(arrayyy))
