@@ -1,0 +1,4439 @@
+[
+  {
+    "DATA": "28/08/2020",
+    "ABERTURA": 19.83,
+    "FECHAMENTO": 19.92,
+    "VARIAÇÃO": 1.12,
+    "MÍNIMO": 19.69,
+    "MÁXIMO": 20.24,
+    "VOLUME": 146.95
+  },
+  {
+    "DATA": "27/08/2020",
+    "ABERTURA": 19.72,
+    "FECHAMENTO": 19.7,
+    "VARIAÇÃO": 0.51,
+    "MÍNIMO": 19.53,
+    "MÁXIMO": 20.07,
+    "VOLUME": 255.14
+  },
+  {
+    "DATA": "26/08/2020",
+    "ABERTURA": 20.05,
+    "FECHAMENTO": 19.6,
+    "VARIAÇÃO": -2,
+    "MÍNIMO": 19.16,
+    "MÁXIMO": 20.05,
+    "VOLUME": 448.33
+  },
+  {
+    "DATA": "25/08/2020",
+    "ABERTURA": 20.5,
+    "FECHAMENTO": 20,
+    "VARIAÇÃO": -1.82,
+    "MÍNIMO": 19.92,
+    "MÁXIMO": 20.54,
+    "VOLUME": 342.2
+  },
+  {
+    "DATA": "24/08/2020",
+    "ABERTURA": 20.67,
+    "FECHAMENTO": 20.37,
+    "VARIAÇÃO": -0.73,
+    "MÍNIMO": 20.37,
+    "MÁXIMO": 20.92,
+    "VOLUME": 155.89
+  },
+  {
+    "DATA": "21/08/2020",
+    "ABERTURA": 20.65,
+    "FECHAMENTO": 20.52,
+    "VARIAÇÃO": -0.34,
+    "MÍNIMO": 20.25,
+    "MÁXIMO": 20.74,
+    "VOLUME": 162.62
+  },
+  {
+    "DATA": "20/08/2020",
+    "ABERTURA": 20.6,
+    "FECHAMENTO": 20.59,
+    "VARIAÇÃO": -1.15,
+    "MÍNIMO": 20.2,
+    "MÁXIMO": 20.99,
+    "VOLUME": 357.99
+  },
+  {
+    "DATA": "19/08/2020",
+    "ABERTURA": 21.15,
+    "FECHAMENTO": 20.83,
+    "VARIAÇÃO": -1.23,
+    "MÍNIMO": 20.74,
+    "MÁXIMO": 21.4,
+    "VOLUME": 229.23
+  },
+  {
+    "DATA": "18/08/2020",
+    "ABERTURA": 21.2,
+    "FECHAMENTO": 21.09,
+    "VARIAÇÃO": 0.52,
+    "MÍNIMO": 21.03,
+    "MÁXIMO": 21.38,
+    "VOLUME": 172.1
+  },
+  {
+    "DATA": "17/08/2020",
+    "ABERTURA": 20.74,
+    "FECHAMENTO": 20.98,
+    "VARIAÇÃO": 1.35,
+    "MÍNIMO": 20.52,
+    "MÁXIMO": 21.39,
+    "VOLUME": 268.72
+  },
+  {
+    "DATA": "14/08/2020",
+    "ABERTURA": 21,
+    "FECHAMENTO": 20.7,
+    "VARIAÇÃO": -1.1,
+    "MÍNIMO": 20.54,
+    "MÁXIMO": 21.21,
+    "VOLUME": 287.41
+  },
+  {
+    "DATA": "13/08/2020",
+    "ABERTURA": 22.2,
+    "FECHAMENTO": 20.93,
+    "VARIAÇÃO": -7.8,
+    "MÍNIMO": 20.8,
+    "MÁXIMO": 22.23,
+    "VOLUME": 807.98
+  },
+  {
+    "DATA": "12/08/2020",
+    "ABERTURA": 22.47,
+    "FECHAMENTO": 22.7,
+    "VARIAÇÃO": 1.48,
+    "MÍNIMO": 21.85,
+    "MÁXIMO": 22.75,
+    "VOLUME": 204.63
+  },
+  {
+    "DATA": "11/08/2020",
+    "ABERTURA": 22.12,
+    "FECHAMENTO": 22.37,
+    "VARIAÇÃO": 2.05,
+    "MÍNIMO": 21.91,
+    "MÁXIMO": 22.97,
+    "VOLUME": 246.74
+  },
+  {
+    "DATA": "10/08/2020",
+    "ABERTURA": 22.8,
+    "FECHAMENTO": 21.92,
+    "VARIAÇÃO": -2.23,
+    "MÍNIMO": 21.43,
+    "MÁXIMO": 22.84,
+    "VOLUME": 253.63
+  },
+  {
+    "DATA": "07/08/2020",
+    "ABERTURA": 21.7,
+    "FECHAMENTO": 22.42,
+    "VARIAÇÃO": 2.33,
+    "MÍNIMO": 21.51,
+    "MÁXIMO": 22.89,
+    "VOLUME": 367.16
+  },
+  {
+    "DATA": "06/08/2020",
+    "ABERTURA": 21.1,
+    "FECHAMENTO": 21.91,
+    "VARIAÇÃO": 6.05,
+    "MÍNIMO": 20.9,
+    "MÁXIMO": 22.16,
+    "VOLUME": 345.65
+  },
+  {
+    "DATA": "05/08/2020",
+    "ABERTURA": 20.58,
+    "FECHAMENTO": 20.66,
+    "VARIAÇÃO": 1.32,
+    "MÍNIMO": 20.29,
+    "MÁXIMO": 20.8,
+    "VOLUME": 130.84
+  },
+  {
+    "DATA": "04/08/2020",
+    "ABERTURA": 20.5,
+    "FECHAMENTO": 20.39,
+    "VARIAÇÃO": -1.16,
+    "MÍNIMO": 20.03,
+    "MÁXIMO": 20.86,
+    "VOLUME": 181.62
+  },
+  {
+    "DATA": "03/08/2020",
+    "ABERTURA": 20.94,
+    "FECHAMENTO": 20.63,
+    "VARIAÇÃO": -0.34,
+    "MÍNIMO": 20.37,
+    "MÁXIMO": 21.03,
+    "VOLUME": 162.63
+  },
+  {
+    "DATA": "31/07/2020",
+    "ABERTURA": 21.25,
+    "FECHAMENTO": 20.7,
+    "VARIAÇÃO": -2.36,
+    "MÍNIMO": 20.67,
+    "MÁXIMO": 21.42,
+    "VOLUME": 132.03
+  },
+  {
+    "DATA": "30/07/2020",
+    "ABERTURA": 21.73,
+    "FECHAMENTO": 21.2,
+    "VARIAÇÃO": -3.02,
+    "MÍNIMO": 21.05,
+    "MÁXIMO": 21.96,
+    "VOLUME": 227.8
+  },
+  {
+    "DATA": "29/07/2020",
+    "ABERTURA": 21.46,
+    "FECHAMENTO": 21.86,
+    "VARIAÇÃO": 2.63,
+    "MÍNIMO": 21.4,
+    "MÁXIMO": 22.33,
+    "VOLUME": 360.51
+  },
+  {
+    "DATA": "28/07/2020",
+    "ABERTURA": 20.13,
+    "FECHAMENTO": 21.3,
+    "VARIAÇÃO": 5.86,
+    "MÍNIMO": 19.98,
+    "MÁXIMO": 21.61,
+    "VOLUME": 344.18
+  },
+  {
+    "DATA": "27/07/2020",
+    "ABERTURA": 20.41,
+    "FECHAMENTO": 20.12,
+    "VARIAÇÃO": -1.03,
+    "MÍNIMO": 19.91,
+    "MÁXIMO": 20.54,
+    "VOLUME": 206.79
+  },
+  {
+    "DATA": "24/07/2020",
+    "ABERTURA": 20.28,
+    "FECHAMENTO": 20.33,
+    "VARIAÇÃO": -0.34,
+    "MÍNIMO": 20.01,
+    "MÁXIMO": 20.67,
+    "VOLUME": 119.22
+  },
+  {
+    "DATA": "23/07/2020",
+    "ABERTURA": 20.65,
+    "FECHAMENTO": 20.4,
+    "VARIAÇÃO": -0.87,
+    "MÍNIMO": 20.23,
+    "MÁXIMO": 20.86,
+    "VOLUME": 179.24
+  },
+  {
+    "DATA": "22/07/2020",
+    "ABERTURA": 20.8,
+    "FECHAMENTO": 20.58,
+    "VARIAÇÃO": -1.48,
+    "MÍNIMO": 20.32,
+    "MÁXIMO": 20.97,
+    "VOLUME": 173.35
+  },
+  {
+    "DATA": "21/07/2020",
+    "ABERTURA": 21.43,
+    "FECHAMENTO": 20.89,
+    "VARIAÇÃO": -1.69,
+    "MÍNIMO": 20.73,
+    "MÁXIMO": 21.62,
+    "VOLUME": 239.29
+  },
+  {
+    "DATA": "20/07/2020",
+    "ABERTURA": 20.79,
+    "FECHAMENTO": 21.25,
+    "VARIAÇÃO": 2.76,
+    "MÍNIMO": 20.65,
+    "MÁXIMO": 21.4,
+    "VOLUME": 230.46
+  },
+  {
+    "DATA": "17/07/2020",
+    "ABERTURA": 20.35,
+    "FECHAMENTO": 20.68,
+    "VARIAÇÃO": 2.63,
+    "MÍNIMO": 20.08,
+    "MÁXIMO": 20.99,
+    "VOLUME": 221.8
+  },
+  {
+    "DATA": "16/07/2020",
+    "ABERTURA": 20.3,
+    "FECHAMENTO": 20.15,
+    "VARIAÇÃO": -0.79,
+    "MÍNIMO": 20.02,
+    "MÁXIMO": 20.62,
+    "VOLUME": 192.29
+  },
+  {
+    "DATA": "15/07/2020",
+    "ABERTURA": 20.43,
+    "FECHAMENTO": 20.31,
+    "VARIAÇÃO": 1.04,
+    "MÍNIMO": 20.11,
+    "MÁXIMO": 20.67,
+    "VOLUME": 248.19
+  },
+  {
+    "DATA": "14/07/2020",
+    "ABERTURA": 20.08,
+    "FECHAMENTO": 20.1,
+    "VARIAÇÃO": 0.1,
+    "MÍNIMO": 19.85,
+    "MÁXIMO": 20.41,
+    "VOLUME": 192.83
+  },
+  {
+    "DATA": "13/07/2020",
+    "ABERTURA": 20.75,
+    "FECHAMENTO": 20.08,
+    "VARIAÇÃO": -2.52,
+    "MÍNIMO": 20.08,
+    "MÁXIMO": 20.92,
+    "VOLUME": 214.29
+  },
+  {
+    "DATA": "10/07/2020",
+    "ABERTURA": 20.67,
+    "FECHAMENTO": 20.6,
+    "VARIAÇÃO": -0.48,
+    "MÍNIMO": 20.47,
+    "MÁXIMO": 20.76,
+    "VOLUME": 137.29
+  },
+  {
+    "DATA": "09/07/2020",
+    "ABERTURA": 21,
+    "FECHAMENTO": 20.7,
+    "VARIAÇÃO": -1,
+    "MÍNIMO": 20.67,
+    "MÁXIMO": 21.21,
+    "VOLUME": 141.27
+  },
+  {
+    "DATA": "08/07/2020",
+    "ABERTURA": 20.75,
+    "FECHAMENTO": 20.91,
+    "VARIAÇÃO": 2,
+    "MÍNIMO": 20.6,
+    "MÁXIMO": 21.18,
+    "VOLUME": 172.43
+  },
+  {
+    "DATA": "07/07/2020",
+    "ABERTURA": 20.94,
+    "FECHAMENTO": 20.5,
+    "VARIAÇÃO": -3.07,
+    "MÍNIMO": 20.47,
+    "MÁXIMO": 21.53,
+    "VOLUME": 313
+  },
+  {
+    "DATA": "06/07/2020",
+    "ABERTURA": 20.39,
+    "FECHAMENTO": 21.15,
+    "VARIAÇÃO": 4.75,
+    "MÍNIMO": 20.28,
+    "MÁXIMO": 21.25,
+    "VOLUME": 329.86
+  },
+  {
+    "DATA": "03/07/2020",
+    "ABERTURA": 20.3,
+    "FECHAMENTO": 20.19,
+    "VARIAÇÃO": -1.03,
+    "MÍNIMO": 20.14,
+    "MÁXIMO": 20.63,
+    "VOLUME": 155.66
+  },
+  {
+    "DATA": "02/07/2020",
+    "ABERTURA": 20.78,
+    "FECHAMENTO": 20.4,
+    "VARIAÇÃO": -0.49,
+    "MÍNIMO": 20.1,
+    "MÁXIMO": 20.86,
+    "VOLUME": 277.45
+  },
+  {
+    "DATA": "01/07/2020",
+    "ABERTURA": 21.1,
+    "FECHAMENTO": 20.5,
+    "VARIAÇÃO": -3.57,
+    "MÍNIMO": 20.5,
+    "MÁXIMO": 21.51,
+    "VOLUME": 277.4
+  },
+  {
+    "DATA": "30/06/2020",
+    "ABERTURA": 20.85,
+    "FECHAMENTO": 21.26,
+    "VARIAÇÃO": 1.97,
+    "MÍNIMO": 20.68,
+    "MÁXIMO": 21.6,
+    "VOLUME": 209.34
+  },
+  {
+    "DATA": "29/06/2020",
+    "ABERTURA": 21.49,
+    "FECHAMENTO": 20.87,
+    "VARIAÇÃO": -2.7,
+    "MÍNIMO": 20.34,
+    "MÁXIMO": 21.78,
+    "VOLUME": 308.41
+  },
+  {
+    "DATA": "26/06/2020",
+    "ABERTURA": 21.88,
+    "FECHAMENTO": 21.45,
+    "VARIAÇÃO": -2.46,
+    "MÍNIMO": 21.35,
+    "MÁXIMO": 22.45,
+    "VOLUME": 137.31
+  },
+  {
+    "DATA": "25/06/2020",
+    "ABERTURA": 21.75,
+    "FECHAMENTO": 21.99,
+    "VARIAÇÃO": 0.55,
+    "MÍNIMO": 21.63,
+    "MÁXIMO": 22.18,
+    "VOLUME": 88.07
+  },
+  {
+    "DATA": "24/06/2020",
+    "ABERTURA": 22.15,
+    "FECHAMENTO": 21.87,
+    "VARIAÇÃO": -1.4,
+    "MÍNIMO": 21.31,
+    "MÁXIMO": 22.24,
+    "VOLUME": 129.5
+  },
+  {
+    "DATA": "23/06/2020",
+    "ABERTURA": 22.31,
+    "FECHAMENTO": 22.18,
+    "VARIAÇÃO": 0.77,
+    "MÍNIMO": 21.91,
+    "MÁXIMO": 22.6,
+    "VOLUME": 103.74
+  },
+  {
+    "DATA": "22/06/2020",
+    "ABERTURA": 22.7,
+    "FECHAMENTO": 22.01,
+    "VARIAÇÃO": -1.96,
+    "MÍNIMO": 21.83,
+    "MÁXIMO": 22.77,
+    "VOLUME": 115.64
+  },
+  {
+    "DATA": "19/06/2020",
+    "ABERTURA": 22.66,
+    "FECHAMENTO": 22.45,
+    "VARIAÇÃO": 0.4,
+    "MÍNIMO": 22.26,
+    "MÁXIMO": 22.94,
+    "VOLUME": 167.43
+  },
+  {
+    "DATA": "18/06/2020",
+    "ABERTURA": 22.46,
+    "FECHAMENTO": 22.36,
+    "VARIAÇÃO": -0.58,
+    "MÍNIMO": 22.15,
+    "MÁXIMO": 22.81,
+    "VOLUME": 127.62
+  },
+  {
+    "DATA": "17/06/2020",
+    "ABERTURA": 22.37,
+    "FECHAMENTO": 22.49,
+    "VARIAÇÃO": 1.76,
+    "MÍNIMO": 22.27,
+    "MÁXIMO": 23.03,
+    "VOLUME": 173.84
+  },
+  {
+    "DATA": "16/06/2020",
+    "ABERTURA": 21.8,
+    "FECHAMENTO": 22.1,
+    "VARIAÇÃO": 4.25,
+    "MÍNIMO": 21.59,
+    "MÁXIMO": 22.56,
+    "VOLUME": 268.09
+  },
+  {
+    "DATA": "15/06/2020",
+    "ABERTURA": 21,
+    "FECHAMENTO": 21.2,
+    "VARIAÇÃO": -1.67,
+    "MÍNIMO": 20.67,
+    "MÁXIMO": 21.88,
+    "VOLUME": 243.48
+  },
+  {
+    "DATA": "12/06/2020",
+    "ABERTURA": 21.99,
+    "FECHAMENTO": 21.56,
+    "VARIAÇÃO": -4.26,
+    "MÍNIMO": 21.2,
+    "MÁXIMO": 22,
+    "VOLUME": 280.29
+  },
+  {
+    "DATA": "10/06/2020",
+    "ABERTURA": 23.15,
+    "FECHAMENTO": 22.52,
+    "VARIAÇÃO": -2.38,
+    "MÍNIMO": 22.51,
+    "MÁXIMO": 23.3,
+    "VOLUME": 190.2
+  },
+  {
+    "DATA": "09/06/2020",
+    "ABERTURA": 23.27,
+    "FECHAMENTO": 23.07,
+    "VARIAÇÃO": -0.77,
+    "MÍNIMO": 22.65,
+    "MÁXIMO": 23.7,
+    "VOLUME": 232.3
+  },
+  {
+    "DATA": "08/06/2020",
+    "ABERTURA": 22.9,
+    "FECHAMENTO": 23.25,
+    "VARIAÇÃO": 2.42,
+    "MÍNIMO": 22.65,
+    "MÁXIMO": 23.31,
+    "VOLUME": 202.15
+  },
+  {
+    "DATA": "05/06/2020",
+    "ABERTURA": 23.65,
+    "FECHAMENTO": 22.7,
+    "VARIAÇÃO": -3.2,
+    "MÍNIMO": 22.58,
+    "MÁXIMO": 23.77,
+    "VOLUME": 269.59
+  },
+  {
+    "DATA": "04/06/2020",
+    "ABERTURA": 22.76,
+    "FECHAMENTO": 23.45,
+    "VARIAÇÃO": 3.53,
+    "MÍNIMO": 22.57,
+    "MÁXIMO": 23.57,
+    "VOLUME": 185.6
+  },
+  {
+    "DATA": "03/06/2020",
+    "ABERTURA": 23.8,
+    "FECHAMENTO": 22.65,
+    "VARIAÇÃO": -3,
+    "MÍNIMO": 22.41,
+    "MÁXIMO": 24.41,
+    "VOLUME": 330.91
+  },
+  {
+    "DATA": "02/06/2020",
+    "ABERTURA": 23.96,
+    "FECHAMENTO": 23.35,
+    "VARIAÇÃO": -1.35,
+    "MÍNIMO": 23.22,
+    "MÁXIMO": 23.98,
+    "VOLUME": 209.25
+  },
+  {
+    "DATA": "01/06/2020",
+    "ABERTURA": 23,
+    "FECHAMENTO": 23.67,
+    "VARIAÇÃO": 2.33,
+    "MÍNIMO": 22.75,
+    "MÁXIMO": 24.26,
+    "VOLUME": 226.25
+  },
+  {
+    "DATA": "29/05/2020",
+    "ABERTURA": 23.2,
+    "FECHAMENTO": 23.13,
+    "VARIAÇÃO": -0.34,
+    "MÍNIMO": 22.45,
+    "MÁXIMO": 23.49,
+    "VOLUME": 263.73
+  },
+  {
+    "DATA": "28/05/2020",
+    "ABERTURA": 23.44,
+    "FECHAMENTO": 23.21,
+    "VARIAÇÃO": -0.17,
+    "MÍNIMO": 22.84,
+    "MÁXIMO": 23.84,
+    "VOLUME": 178.97
+  },
+  {
+    "DATA": "27/05/2020",
+    "ABERTURA": 22.89,
+    "FECHAMENTO": 23.25,
+    "VARIAÇÃO": 3.33,
+    "MÍNIMO": 22.74,
+    "MÁXIMO": 23.39,
+    "VOLUME": 148.73
+  },
+  {
+    "DATA": "26/05/2020",
+    "ABERTURA": 22,
+    "FECHAMENTO": 22.5,
+    "VARIAÇÃO": 3.45,
+    "MÍNIMO": 21.99,
+    "MÁXIMO": 23.63,
+    "VOLUME": 316.01
+  },
+  {
+    "DATA": "25/05/2020",
+    "ABERTURA": 22.2,
+    "FECHAMENTO": 21.75,
+    "VARIAÇÃO": -0.05,
+    "MÍNIMO": 21.61,
+    "MÁXIMO": 22.39,
+    "VOLUME": 137.08
+  },
+  {
+    "DATA": "22/05/2020",
+    "ABERTURA": 21.75,
+    "FECHAMENTO": 21.76,
+    "VARIAÇÃO": -0.18,
+    "MÍNIMO": 21.68,
+    "MÁXIMO": 22.2,
+    "VOLUME": 276.49
+  },
+  {
+    "DATA": "21/05/2020",
+    "ABERTURA": 22.68,
+    "FECHAMENTO": 21.8,
+    "VARIAÇÃO": -2.98,
+    "MÍNIMO": 21.52,
+    "MÁXIMO": 22.74,
+    "VOLUME": 240.83
+  },
+  {
+    "DATA": "20/05/2020",
+    "ABERTURA": 22.5,
+    "FECHAMENTO": 22.47,
+    "VARIAÇÃO": 2.14,
+    "MÍNIMO": 21.91,
+    "MÁXIMO": 22.67,
+    "VOLUME": 206.69
+  },
+  {
+    "DATA": "19/05/2020",
+    "ABERTURA": 21.51,
+    "FECHAMENTO": 22,
+    "VARIAÇÃO": 1.2,
+    "MÍNIMO": 21.42,
+    "MÁXIMO": 22.78,
+    "VOLUME": 254.38
+  },
+  {
+    "DATA": "18/05/2020",
+    "ABERTURA": 23.3,
+    "FECHAMENTO": 21.74,
+    "VARIAÇÃO": -4.06,
+    "MÍNIMO": 21.74,
+    "MÁXIMO": 23.5,
+    "VOLUME": 299.9
+  },
+  {
+    "DATA": "15/05/2020",
+    "ABERTURA": 22.99,
+    "FECHAMENTO": 22.66,
+    "VARIAÇÃO": -1.73,
+    "MÍNIMO": 21.95,
+    "MÁXIMO": 23.27,
+    "VOLUME": 317.26
+  },
+  {
+    "DATA": "14/05/2020",
+    "ABERTURA": 22.8,
+    "FECHAMENTO": 23.06,
+    "VARIAÇÃO": 0.92,
+    "MÍNIMO": 21.82,
+    "MÁXIMO": 23.38,
+    "VOLUME": 493.49
+  },
+  {
+    "DATA": "13/05/2020",
+    "ABERTURA": 20.52,
+    "FECHAMENTO": 22.85,
+    "VARIAÇÃO": 12.17,
+    "MÍNIMO": 20.4,
+    "MÁXIMO": 22.85,
+    "VOLUME": 570.39
+  },
+  {
+    "DATA": "12/05/2020",
+    "ABERTURA": 21.08,
+    "FECHAMENTO": 20.37,
+    "VARIAÇÃO": -2.3,
+    "MÍNIMO": 20.3,
+    "MÁXIMO": 21.46,
+    "VOLUME": 324.74
+  },
+  {
+    "DATA": "11/05/2020",
+    "ABERTURA": 19.75,
+    "FECHAMENTO": 20.85,
+    "VARIAÇÃO": 11.26,
+    "MÍNIMO": 19.62,
+    "MÁXIMO": 21.53,
+    "VOLUME": 612.78
+  },
+  {
+    "DATA": "08/05/2020",
+    "ABERTURA": 18.99,
+    "FECHAMENTO": 18.74,
+    "VARIAÇÃO": 1.79,
+    "MÍNIMO": 18.07,
+    "MÁXIMO": 19.02,
+    "VOLUME": 141.81
+  },
+  {
+    "DATA": "07/05/2020",
+    "ABERTURA": 18.57,
+    "FECHAMENTO": 18.41,
+    "VARIAÇÃO": 0.55,
+    "MÍNIMO": 18.32,
+    "MÁXIMO": 19.29,
+    "VOLUME": 211.79
+  },
+  {
+    "DATA": "06/05/2020",
+    "ABERTURA": 18.44,
+    "FECHAMENTO": 18.31,
+    "VARIAÇÃO": -0.16,
+    "MÍNIMO": 18,
+    "MÁXIMO": 18.7,
+    "VOLUME": 165.57
+  },
+  {
+    "DATA": "05/05/2020",
+    "ABERTURA": 18.7,
+    "FECHAMENTO": 18.34,
+    "VARIAÇÃO": -0.33,
+    "MÍNIMO": 18.29,
+    "MÁXIMO": 19.28,
+    "VOLUME": 163.15
+  },
+  {
+    "DATA": "04/05/2020",
+    "ABERTURA": 18.61,
+    "FECHAMENTO": 18.4,
+    "VARIAÇÃO": -5.11,
+    "MÍNIMO": 18.15,
+    "MÁXIMO": 19.09,
+    "VOLUME": 160.24
+  },
+  {
+    "DATA": "30/04/2020",
+    "ABERTURA": 20.09,
+    "FECHAMENTO": 19.39,
+    "VARIAÇÃO": -4.86,
+    "MÍNIMO": 19.22,
+    "MÁXIMO": 20.09,
+    "VOLUME": 224.08
+  },
+  {
+    "DATA": "29/04/2020",
+    "ABERTURA": 20.55,
+    "FECHAMENTO": 20.38,
+    "VARIAÇÃO": 0.34,
+    "MÍNIMO": 19.92,
+    "MÁXIMO": 20.75,
+    "VOLUME": 294.22
+  },
+  {
+    "DATA": "28/04/2020",
+    "ABERTURA": 21.1,
+    "FECHAMENTO": 20.31,
+    "VARIAÇÃO": -1.22,
+    "MÍNIMO": 20.1,
+    "MÁXIMO": 21.29,
+    "VOLUME": 265.72
+  },
+  {
+    "DATA": "27/04/2020",
+    "ABERTURA": 19,
+    "FECHAMENTO": 20.56,
+    "VARIAÇÃO": 10.84,
+    "MÍNIMO": 18.84,
+    "MÁXIMO": 20.62,
+    "VOLUME": 246.07
+  },
+  {
+    "DATA": "24/04/2020",
+    "ABERTURA": 19.22,
+    "FECHAMENTO": 18.55,
+    "VARIAÇÃO": -4.92,
+    "MÍNIMO": 17.35,
+    "MÁXIMO": 19.37,
+    "VOLUME": 257.3
+  },
+  {
+    "DATA": "23/04/2020",
+    "ABERTURA": 19.83,
+    "FECHAMENTO": 19.51,
+    "VARIAÇÃO": 0.31,
+    "MÍNIMO": 18.87,
+    "MÁXIMO": 20.27,
+    "VOLUME": 180.62
+  },
+  {
+    "DATA": "22/04/2020",
+    "ABERTURA": 18.94,
+    "FECHAMENTO": 19.45,
+    "VARIAÇÃO": 2.8,
+    "MÍNIMO": 18.8,
+    "MÁXIMO": 19.82,
+    "VOLUME": 119.68
+  },
+  {
+    "DATA": "20/04/2020",
+    "ABERTURA": 18.52,
+    "FECHAMENTO": 18.92,
+    "VARIAÇÃO": -0.68,
+    "MÍNIMO": 18.34,
+    "MÁXIMO": 19.28,
+    "VOLUME": 113.87
+  },
+  {
+    "DATA": "17/04/2020",
+    "ABERTURA": 19.75,
+    "FECHAMENTO": 19.05,
+    "VARIAÇÃO": -1.14,
+    "MÍNIMO": 18.7,
+    "MÁXIMO": 19.75,
+    "VOLUME": 149.48
+  },
+  {
+    "DATA": "16/04/2020",
+    "ABERTURA": 19.34,
+    "FECHAMENTO": 19.27,
+    "VARIAÇÃO": 1.15,
+    "MÍNIMO": 18.72,
+    "MÁXIMO": 19.75,
+    "VOLUME": 181.69
+  },
+  {
+    "DATA": "15/04/2020",
+    "ABERTURA": 18.4,
+    "FECHAMENTO": 19.05,
+    "VARIAÇÃO": 1.01,
+    "MÍNIMO": 18.06,
+    "MÁXIMO": 19.42,
+    "VOLUME": 184.21
+  },
+  {
+    "DATA": "14/04/2020",
+    "ABERTURA": 18.2,
+    "FECHAMENTO": 18.86,
+    "VARIAÇÃO": 5.84,
+    "MÍNIMO": 17.92,
+    "MÁXIMO": 18.98,
+    "VOLUME": 146.68
+  },
+  {
+    "DATA": "13/04/2020",
+    "ABERTURA": 18.04,
+    "FECHAMENTO": 17.82,
+    "VARIAÇÃO": -1.22,
+    "MÍNIMO": 17.38,
+    "MÁXIMO": 18.21,
+    "VOLUME": 160.26
+  },
+  {
+    "DATA": "09/04/2020",
+    "ABERTURA": 17.6,
+    "FECHAMENTO": 18.04,
+    "VARIAÇÃO": 3.68,
+    "MÍNIMO": 17.36,
+    "MÁXIMO": 18.79,
+    "VOLUME": 212.07
+  },
+  {
+    "DATA": "08/04/2020",
+    "ABERTURA": 17.6,
+    "FECHAMENTO": 17.4,
+    "VARIAÇÃO": -0.74,
+    "MÍNIMO": 16.83,
+    "MÁXIMO": 17.75,
+    "VOLUME": 152.56
+  },
+  {
+    "DATA": "07/04/2020",
+    "ABERTURA": 19.4,
+    "FECHAMENTO": 17.53,
+    "VARIAÇÃO": -0.85,
+    "MÍNIMO": 17.4,
+    "MÁXIMO": 19.68,
+    "VOLUME": 265.26
+  },
+  {
+    "DATA": "06/04/2020",
+    "ABERTURA": 16,
+    "FECHAMENTO": 17.68,
+    "VARIAÇÃO": 15.86,
+    "MÍNIMO": 15.85,
+    "MÁXIMO": 17.75,
+    "VOLUME": 189.83
+  },
+  {
+    "DATA": "03/04/2020",
+    "ABERTURA": 16.2,
+    "FECHAMENTO": 15.26,
+    "VARIAÇÃO": -6.09,
+    "MÍNIMO": 14.91,
+    "MÁXIMO": 16.59,
+    "VOLUME": 182.85
+  },
+  {
+    "DATA": "02/04/2020",
+    "ABERTURA": 15.75,
+    "FECHAMENTO": 16.25,
+    "VARIAÇÃO": 4.1,
+    "MÍNIMO": 15.62,
+    "MÁXIMO": 16.5,
+    "VOLUME": 178.55
+  },
+  {
+    "DATA": "01/04/2020",
+    "ABERTURA": 14.69,
+    "FECHAMENTO": 15.61,
+    "VARIAÇÃO": 3.45,
+    "MÍNIMO": 14.17,
+    "MÁXIMO": 15.95,
+    "VOLUME": 161.36
+  },
+  {
+    "DATA": "31/03/2020",
+    "ABERTURA": 14.52,
+    "FECHAMENTO": 15.09,
+    "VARIAÇÃO": 4,
+    "MÍNIMO": 14.31,
+    "MÁXIMO": 15.62,
+    "VOLUME": 182.03
+  },
+  {
+    "DATA": "30/03/2020",
+    "ABERTURA": 14.87,
+    "FECHAMENTO": 14.51,
+    "VARIAÇÃO": -2.42,
+    "MÍNIMO": 14.35,
+    "MÁXIMO": 15.28,
+    "VOLUME": 186.01
+  },
+  {
+    "DATA": "27/03/2020",
+    "ABERTURA": 15.35,
+    "FECHAMENTO": 14.87,
+    "VARIAÇÃO": -6.89,
+    "MÍNIMO": 14.73,
+    "MÁXIMO": 15.44,
+    "VOLUME": 169.93
+  },
+  {
+    "DATA": "26/03/2020",
+    "ABERTURA": 16.03,
+    "FECHAMENTO": 15.97,
+    "VARIAÇÃO": 0.38,
+    "MÍNIMO": 15.23,
+    "MÁXIMO": 17,
+    "VOLUME": 204.14
+  },
+  {
+    "DATA": "25/03/2020",
+    "ABERTURA": 15.04,
+    "FECHAMENTO": 15.91,
+    "VARIAÇÃO": 5.78,
+    "MÍNIMO": 14.4,
+    "MÁXIMO": 16.36,
+    "VOLUME": 180.69
+  },
+  {
+    "DATA": "24/03/2020",
+    "ABERTURA": 14.94,
+    "FECHAMENTO": 15.04,
+    "VARIAÇÃO": 7.2,
+    "MÍNIMO": 14.52,
+    "MÁXIMO": 15.65,
+    "VOLUME": 192.2
+  },
+  {
+    "DATA": "23/03/2020",
+    "ABERTURA": 14.3,
+    "FECHAMENTO": 14.03,
+    "VARIAÇÃO": -0.85,
+    "MÍNIMO": 13.35,
+    "MÁXIMO": 14.5,
+    "VOLUME": 162.9
+  },
+  {
+    "DATA": "20/03/2020",
+    "ABERTURA": 15.5,
+    "FECHAMENTO": 14.15,
+    "VARIAÇÃO": -5.03,
+    "MÍNIMO": 13.96,
+    "MÁXIMO": 16.1,
+    "VOLUME": 259.89
+  },
+  {
+    "DATA": "19/03/2020",
+    "ABERTURA": 12.6,
+    "FECHAMENTO": 14.9,
+    "VARIAÇÃO": 14.53,
+    "MÍNIMO": 11.71,
+    "MÁXIMO": 15.3,
+    "VOLUME": 208.58
+  },
+  {
+    "DATA": "18/03/2020",
+    "ABERTURA": 13.12,
+    "FECHAMENTO": 13.01,
+    "VARIAÇÃO": -8.7,
+    "MÍNIMO": 11.52,
+    "MÁXIMO": 13.42,
+    "VOLUME": 214.71
+  },
+  {
+    "DATA": "17/03/2020",
+    "ABERTURA": 13.75,
+    "FECHAMENTO": 14.25,
+    "VARIAÇÃO": 7.55,
+    "MÍNIMO": 13,
+    "MÁXIMO": 15.48,
+    "VOLUME": 303.18
+  },
+  {
+    "DATA": "16/03/2020",
+    "ABERTURA": 14.5,
+    "FECHAMENTO": 13.25,
+    "VARIAÇÃO": -19.65,
+    "MÍNIMO": 13.25,
+    "MÁXIMO": 14.85,
+    "VOLUME": 184.58
+  },
+  {
+    "DATA": "13/03/2020",
+    "ABERTURA": 17.99,
+    "FECHAMENTO": 16.49,
+    "VARIAÇÃO": 8.13,
+    "MÍNIMO": 14.9,
+    "MÁXIMO": 18.13,
+    "VOLUME": 263.51
+  },
+  {
+    "DATA": "12/03/2020",
+    "ABERTURA": 14.45,
+    "FECHAMENTO": 15.25,
+    "VARIAÇÃO": -17.57,
+    "MÍNIMO": 13.49,
+    "MÁXIMO": 15.85,
+    "VOLUME": 182.2
+  },
+  {
+    "DATA": "11/03/2020",
+    "ABERTURA": 20.35,
+    "FECHAMENTO": 18.5,
+    "VARIAÇÃO": -11.23,
+    "MÍNIMO": 17.68,
+    "MÁXIMO": 20.36,
+    "VOLUME": 224.11
+  },
+  {
+    "DATA": "10/03/2020",
+    "ABERTURA": 20.95,
+    "FECHAMENTO": 20.84,
+    "VARIAÇÃO": 4.2,
+    "MÍNIMO": 19.74,
+    "MÁXIMO": 21.05,
+    "VOLUME": 368.61
+  },
+  {
+    "DATA": "09/03/2020",
+    "ABERTURA": 20.6,
+    "FECHAMENTO": 20,
+    "VARIAÇÃO": -13.46,
+    "MÍNIMO": 19,
+    "MÁXIMO": 21.32,
+    "VOLUME": 322.83
+  },
+  {
+    "DATA": "06/03/2020",
+    "ABERTURA": 24.5,
+    "FECHAMENTO": 23.11,
+    "VARIAÇÃO": -9.73,
+    "MÍNIMO": 22.82,
+    "MÁXIMO": 24.89,
+    "VOLUME": 322.29
+  },
+  {
+    "DATA": "05/03/2020",
+    "ABERTURA": 26.39,
+    "FECHAMENTO": 25.6,
+    "VARIAÇÃO": -3.98,
+    "MÍNIMO": 24.95,
+    "MÁXIMO": 26.47,
+    "VOLUME": 130.22
+  },
+  {
+    "DATA": "04/03/2020",
+    "ABERTURA": 26.73,
+    "FECHAMENTO": 26.66,
+    "VARIAÇÃO": 1.95,
+    "MÍNIMO": 26.04,
+    "MÁXIMO": 26.88,
+    "VOLUME": 258.15
+  },
+  {
+    "DATA": "03/03/2020",
+    "ABERTURA": 28.49,
+    "FECHAMENTO": 26.15,
+    "VARIAÇÃO": -7.27,
+    "MÍNIMO": 26.15,
+    "MÁXIMO": 28.7,
+    "VOLUME": 471.67
+  },
+  {
+    "DATA": "02/03/2020",
+    "ABERTURA": 27.05,
+    "FECHAMENTO": 28.2,
+    "VARIAÇÃO": 4.29,
+    "MÍNIMO": 27.05,
+    "MÁXIMO": 28.36,
+    "VOLUME": 187.63
+  },
+  {
+    "DATA": "28/02/2020",
+    "ABERTURA": 27.25,
+    "FECHAMENTO": 27.04,
+    "VARIAÇÃO": -1.78,
+    "MÍNIMO": 25.95,
+    "MÁXIMO": 27.5,
+    "VOLUME": 238.37
+  },
+  {
+    "DATA": "27/02/2020",
+    "ABERTURA": 28.02,
+    "FECHAMENTO": 27.53,
+    "VARIAÇÃO": -3.23,
+    "MÍNIMO": 27.53,
+    "MÁXIMO": 28.81,
+    "VOLUME": 267.29
+  },
+  {
+    "DATA": "26/02/2020",
+    "ABERTURA": 29.01,
+    "FECHAMENTO": 28.45,
+    "VARIAÇÃO": -6.29,
+    "MÍNIMO": 28.1,
+    "MÁXIMO": 29.37,
+    "VOLUME": 289.99
+  },
+  {
+    "DATA": "21/02/2020",
+    "ABERTURA": 30.26,
+    "FECHAMENTO": 30.36,
+    "VARIAÇÃO": -1.04,
+    "MÍNIMO": 30.14,
+    "MÁXIMO": 30.71,
+    "VOLUME": 110.02
+  },
+  {
+    "DATA": "20/02/2020",
+    "ABERTURA": 31.24,
+    "FECHAMENTO": 30.68,
+    "VARIAÇÃO": -1.54,
+    "MÍNIMO": 30.42,
+    "MÁXIMO": 31.36,
+    "VOLUME": 123.29
+  },
+  {
+    "DATA": "19/02/2020",
+    "ABERTURA": 30.7,
+    "FECHAMENTO": 31.16,
+    "VARIAÇÃO": 1,
+    "MÍNIMO": 30.54,
+    "MÁXIMO": 31.39,
+    "VOLUME": 146.89
+  },
+  {
+    "DATA": "18/02/2020",
+    "ABERTURA": 31,
+    "FECHAMENTO": 30.85,
+    "VARIAÇÃO": -0.48,
+    "MÍNIMO": 30.24,
+    "MÁXIMO": 31,
+    "VOLUME": 101.75
+  },
+  {
+    "DATA": "17/02/2020",
+    "ABERTURA": 31,
+    "FECHAMENTO": 31,
+    "VARIAÇÃO": 0.32,
+    "MÍNIMO": 30.8,
+    "MÁXIMO": 31.34,
+    "VOLUME": 85.94
+  },
+  {
+    "DATA": "14/02/2020",
+    "ABERTURA": 31.26,
+    "FECHAMENTO": 30.9,
+    "VARIAÇÃO": -1.37,
+    "MÍNIMO": 30.68,
+    "MÁXIMO": 31.26,
+    "VOLUME": 116.24
+  },
+  {
+    "DATA": "13/02/2020",
+    "ABERTURA": 30.99,
+    "FECHAMENTO": 31.33,
+    "VARIAÇÃO": 0.26,
+    "MÍNIMO": 30.72,
+    "MÁXIMO": 31.44,
+    "VOLUME": 117.56
+  },
+  {
+    "DATA": "12/02/2020",
+    "ABERTURA": 31,
+    "FECHAMENTO": 31.25,
+    "VARIAÇÃO": 1.13,
+    "MÍNIMO": 30.96,
+    "MÁXIMO": 31.85,
+    "VOLUME": 218.61
+  },
+  {
+    "DATA": "11/02/2020",
+    "ABERTURA": 31.03,
+    "FECHAMENTO": 30.9,
+    "VARIAÇÃO": 0.19,
+    "MÍNIMO": 30.7,
+    "MÁXIMO": 31.46,
+    "VOLUME": 157.69
+  },
+  {
+    "DATA": "10/02/2020",
+    "ABERTURA": 31.48,
+    "FECHAMENTO": 30.84,
+    "VARIAÇÃO": -2.22,
+    "MÍNIMO": 30.57,
+    "MÁXIMO": 31.48,
+    "VOLUME": 223.4
+  },
+  {
+    "DATA": "07/02/2020",
+    "ABERTURA": 31.5,
+    "FECHAMENTO": 31.54,
+    "VARIAÇÃO": -0.97,
+    "MÍNIMO": 30.89,
+    "MÁXIMO": 31.8,
+    "VOLUME": 158.39
+  },
+  {
+    "DATA": "06/02/2020",
+    "ABERTURA": 32.3,
+    "FECHAMENTO": 31.85,
+    "VARIAÇÃO": -0.69,
+    "MÍNIMO": 31.85,
+    "MÁXIMO": 32.63,
+    "VOLUME": 157.1
+  },
+  {
+    "DATA": "05/02/2020",
+    "ABERTURA": 32.85,
+    "FECHAMENTO": 32.07,
+    "VARIAÇÃO": -0.34,
+    "MÍNIMO": 31.78,
+    "MÁXIMO": 32.91,
+    "VOLUME": 157.63
+  },
+  {
+    "DATA": "04/02/2020",
+    "ABERTURA": 32.3,
+    "FECHAMENTO": 32.18,
+    "VARIAÇÃO": 1.93,
+    "MÍNIMO": 31.94,
+    "MÁXIMO": 32.75,
+    "VOLUME": 226.46
+  },
+  {
+    "DATA": "03/02/2020",
+    "ABERTURA": 30.75,
+    "FECHAMENTO": 31.57,
+    "VARIAÇÃO": 3.34,
+    "MÍNIMO": 30.75,
+    "MÁXIMO": 32.38,
+    "VOLUME": 310.06
+  },
+  {
+    "DATA": "31/01/2020",
+    "ABERTURA": 30.21,
+    "FECHAMENTO": 30.55,
+    "VARIAÇÃO": -0.16,
+    "MÍNIMO": 29.95,
+    "MÁXIMO": 31,
+    "VOLUME": 238.9
+  },
+  {
+    "DATA": "30/01/2020",
+    "ABERTURA": 30.54,
+    "FECHAMENTO": 30.6,
+    "VARIAÇÃO": -1.61,
+    "MÍNIMO": 30.03,
+    "MÁXIMO": 30.8,
+    "VOLUME": 305.35
+  },
+  {
+    "DATA": "29/01/2020",
+    "ABERTURA": 31.5,
+    "FECHAMENTO": 31.1,
+    "VARIAÇÃO": -0.83,
+    "MÍNIMO": 30.58,
+    "MÁXIMO": 31.89,
+    "VOLUME": 234.79
+  },
+  {
+    "DATA": "28/01/2020",
+    "ABERTURA": 32.3,
+    "FECHAMENTO": 31.36,
+    "VARIAÇÃO": -1.32,
+    "MÍNIMO": 31.32,
+    "MÁXIMO": 32.4,
+    "VOLUME": 380.54
+  },
+  {
+    "DATA": "27/01/2020",
+    "ABERTURA": 33.2,
+    "FECHAMENTO": 31.78,
+    "VARIAÇÃO": -6.06,
+    "MÍNIMO": 31.51,
+    "MÁXIMO": 33.2,
+    "VOLUME": 350.3
+  },
+  {
+    "DATA": "24/01/2020",
+    "ABERTURA": 34.92,
+    "FECHAMENTO": 33.83,
+    "VARIAÇÃO": -2.9,
+    "MÍNIMO": 33.62,
+    "MÁXIMO": 34.92,
+    "VOLUME": 239.71
+  },
+  {
+    "DATA": "23/01/2020",
+    "ABERTURA": 35.61,
+    "FECHAMENTO": 34.84,
+    "VARIAÇÃO": -2.13,
+    "MÍNIMO": 34.45,
+    "MÁXIMO": 35.62,
+    "VOLUME": 171.7
+  },
+  {
+    "DATA": "22/01/2020",
+    "ABERTURA": 35.4,
+    "FECHAMENTO": 35.6,
+    "VARIAÇÃO": 0.48,
+    "MÍNIMO": 34.28,
+    "MÁXIMO": 35.7,
+    "VOLUME": 165.97
+  },
+  {
+    "DATA": "21/01/2020",
+    "ABERTURA": 35.89,
+    "FECHAMENTO": 35.43,
+    "VARIAÇÃO": -1.72,
+    "MÍNIMO": 35.26,
+    "MÁXIMO": 36.34,
+    "VOLUME": 198.5
+  },
+  {
+    "DATA": "20/01/2020",
+    "ABERTURA": 35.75,
+    "FECHAMENTO": 36.05,
+    "VARIAÇÃO": 0.84,
+    "MÍNIMO": 35.55,
+    "MÁXIMO": 36.05,
+    "VOLUME": 61.11
+  },
+  {
+    "DATA": "17/01/2020",
+    "ABERTURA": 36,
+    "FECHAMENTO": 35.75,
+    "VARIAÇÃO": -0.33,
+    "MÍNIMO": 35.53,
+    "MÁXIMO": 36.16,
+    "VOLUME": 116
+  },
+  {
+    "DATA": "16/01/2020",
+    "ABERTURA": 36.68,
+    "FECHAMENTO": 35.87,
+    "VARIAÇÃO": -1.65,
+    "MÍNIMO": 35.46,
+    "MÁXIMO": 36.94,
+    "VOLUME": 172.43
+  },
+  {
+    "DATA": "15/01/2020",
+    "ABERTURA": 36.6,
+    "FECHAMENTO": 36.47,
+    "VARIAÇÃO": -0.22,
+    "MÍNIMO": 36.1,
+    "MÁXIMO": 36.88,
+    "VOLUME": 126.95
+  },
+  {
+    "DATA": "14/01/2020",
+    "ABERTURA": 36.76,
+    "FECHAMENTO": 36.55,
+    "VARIAÇÃO": -0.41,
+    "MÍNIMO": 36.06,
+    "MÁXIMO": 37.12,
+    "VOLUME": 122.25
+  },
+  {
+    "DATA": "13/01/2020",
+    "ABERTURA": 36.36,
+    "FECHAMENTO": 36.7,
+    "VARIAÇÃO": 0.99,
+    "MÍNIMO": 36.35,
+    "MÁXIMO": 36.78,
+    "VOLUME": 142.98
+  },
+  {
+    "DATA": "10/01/2020",
+    "ABERTURA": 36.85,
+    "FECHAMENTO": 36.34,
+    "VARIAÇÃO": -1.36,
+    "MÍNIMO": 36.18,
+    "MÁXIMO": 37.23,
+    "VOLUME": 175.77
+  },
+  {
+    "DATA": "09/01/2020",
+    "ABERTURA": 36.68,
+    "FECHAMENTO": 36.84,
+    "VARIAÇÃO": 0.9,
+    "MÍNIMO": 36.61,
+    "MÁXIMO": 37.09,
+    "VOLUME": 190.44
+  },
+  {
+    "DATA": "08/01/2020",
+    "ABERTURA": 35.34,
+    "FECHAMENTO": 36.51,
+    "VARIAÇÃO": 3.84,
+    "MÍNIMO": 35.01,
+    "MÁXIMO": 36.68,
+    "VOLUME": 249.62
+  },
+  {
+    "DATA": "07/01/2020",
+    "ABERTURA": 35.56,
+    "FECHAMENTO": 35.16,
+    "VARIAÇÃO": -1.15,
+    "MÍNIMO": 35.01,
+    "MÁXIMO": 35.75,
+    "VOLUME": 133.22
+  },
+  {
+    "DATA": "06/01/2020",
+    "ABERTURA": 35.75,
+    "FECHAMENTO": 35.57,
+    "VARIAÇÃO": -1.03,
+    "MÍNIMO": 35.2,
+    "MÁXIMO": 35.95,
+    "VOLUME": 133.42
+  },
+  {
+    "DATA": "03/01/2020",
+    "ABERTURA": 35.25,
+    "FECHAMENTO": 35.94,
+    "VARIAÇÃO": 0.17,
+    "MÍNIMO": 35.12,
+    "MÁXIMO": 35.98,
+    "VOLUME": 165.34
+  },
+  {
+    "DATA": "02/01/2020",
+    "ABERTURA": 35.34,
+    "FECHAMENTO": 35.88,
+    "VARIAÇÃO": 1.93,
+    "MÍNIMO": 35.16,
+    "MÁXIMO": 35.98,
+    "VOLUME": 114.93
+  },
+  {
+    "DATA": "30/12/2019",
+    "ABERTURA": 35.22,
+    "FECHAMENTO": 35.2,
+    "VARIAÇÃO": -0.11,
+    "MÍNIMO": 35.07,
+    "MÁXIMO": 35.5,
+    "VOLUME": 72.84
+  },
+  {
+    "DATA": "27/12/2019",
+    "ABERTURA": 35.34,
+    "FECHAMENTO": 35.24,
+    "VARIAÇÃO": 0.17,
+    "MÍNIMO": 34.87,
+    "MÁXIMO": 35.54,
+    "VOLUME": 87.77
+  },
+  {
+    "DATA": "26/12/2019",
+    "ABERTURA": 34.54,
+    "FECHAMENTO": 35.18,
+    "VARIAÇÃO": 1.88,
+    "MÍNIMO": 34.5,
+    "MÁXIMO": 35.25,
+    "VOLUME": 86.42
+  },
+  {
+    "DATA": "23/12/2019",
+    "ABERTURA": 34.83,
+    "FECHAMENTO": 34.53,
+    "VARIAÇÃO": -0.8,
+    "MÍNIMO": 34.31,
+    "MÁXIMO": 34.99,
+    "VOLUME": 83.42
+  },
+  {
+    "DATA": "20/12/2019",
+    "ABERTURA": 34.38,
+    "FECHAMENTO": 34.81,
+    "VARIAÇÃO": 1.28,
+    "MÍNIMO": 34.22,
+    "MÁXIMO": 34.81,
+    "VOLUME": 166.89
+  },
+  {
+    "DATA": "19/12/2019",
+    "ABERTURA": 34.34,
+    "FECHAMENTO": 34.37,
+    "VARIAÇÃO": 0.12,
+    "MÍNIMO": 33.8,
+    "MÁXIMO": 34.49,
+    "VOLUME": 124.14
+  },
+  {
+    "DATA": "18/12/2019",
+    "ABERTURA": 33.65,
+    "FECHAMENTO": 34.33,
+    "VARIAÇÃO": 2.08,
+    "MÍNIMO": 33.38,
+    "MÁXIMO": 34.6,
+    "VOLUME": 303.02
+  },
+  {
+    "DATA": "17/12/2019",
+    "ABERTURA": 34.81,
+    "FECHAMENTO": 33.63,
+    "VARIAÇÃO": -3.2,
+    "MÍNIMO": 33.21,
+    "MÁXIMO": 34.99,
+    "VOLUME": 320.81
+  },
+  {
+    "DATA": "16/12/2019",
+    "ABERTURA": 34.3,
+    "FECHAMENTO": 34.74,
+    "VARIAÇÃO": 2.33,
+    "MÍNIMO": 34.16,
+    "MÁXIMO": 34.86,
+    "VOLUME": 218.93
+  },
+  {
+    "DATA": "13/12/2019",
+    "ABERTURA": 35.57,
+    "FECHAMENTO": 33.95,
+    "VARIAÇÃO": -4.39,
+    "MÍNIMO": 33.92,
+    "MÁXIMO": 35.8,
+    "VOLUME": 296.23
+  },
+  {
+    "DATA": "12/12/2019",
+    "ABERTURA": 36.23,
+    "FECHAMENTO": 35.51,
+    "VARIAÇÃO": -1.03,
+    "MÍNIMO": 35.51,
+    "MÁXIMO": 36.39,
+    "VOLUME": 215.43
+  },
+  {
+    "DATA": "11/12/2019",
+    "ABERTURA": 36.9,
+    "FECHAMENTO": 35.88,
+    "VARIAÇÃO": -2.5,
+    "MÍNIMO": 35.81,
+    "MÁXIMO": 36.97,
+    "VOLUME": 179.51
+  },
+  {
+    "DATA": "10/12/2019",
+    "ABERTURA": 36.9,
+    "FECHAMENTO": 36.8,
+    "VARIAÇÃO": -0.14,
+    "MÍNIMO": 36.44,
+    "MÁXIMO": 37,
+    "VOLUME": 98.47
+  },
+  {
+    "DATA": "09/12/2019",
+    "ABERTURA": 36.95,
+    "FECHAMENTO": 36.85,
+    "VARIAÇÃO": -0.14,
+    "MÍNIMO": 36.56,
+    "MÁXIMO": 37.34,
+    "VOLUME": 161.83
+  },
+  {
+    "DATA": "06/12/2019",
+    "ABERTURA": 36.49,
+    "FECHAMENTO": 36.9,
+    "VARIAÇÃO": 1.65,
+    "MÍNIMO": 36.35,
+    "MÁXIMO": 37.22,
+    "VOLUME": 164.62
+  },
+  {
+    "DATA": "05/12/2019",
+    "ABERTURA": 36.4,
+    "FECHAMENTO": 36.3,
+    "VARIAÇÃO": -0.27,
+    "MÍNIMO": 36.23,
+    "MÁXIMO": 36.49,
+    "VOLUME": 102.58
+  },
+  {
+    "DATA": "04/12/2019",
+    "ABERTURA": 35.84,
+    "FECHAMENTO": 36.4,
+    "VARIAÇÃO": 1.68,
+    "MÍNIMO": 35.79,
+    "MÁXIMO": 36.68,
+    "VOLUME": 233.66
+  },
+  {
+    "DATA": "03/12/2019",
+    "ABERTURA": 36.51,
+    "FECHAMENTO": 35.8,
+    "VARIAÇÃO": -1.7,
+    "MÍNIMO": 35.67,
+    "MÁXIMO": 36.61,
+    "VOLUME": 173.25
+  },
+  {
+    "DATA": "02/12/2019",
+    "ABERTURA": 36.55,
+    "FECHAMENTO": 36.42,
+    "VARIAÇÃO": -0.49,
+    "MÍNIMO": 36.24,
+    "MÁXIMO": 36.93,
+    "VOLUME": 126.94
+  },
+  {
+    "DATA": "29/11/2019",
+    "ABERTURA": 36.33,
+    "FECHAMENTO": 36.6,
+    "VARIAÇÃO": 1.11,
+    "MÍNIMO": 36.15,
+    "MÁXIMO": 37.22,
+    "VOLUME": 247.79
+  },
+  {
+    "DATA": "28/11/2019",
+    "ABERTURA": 36.5,
+    "FECHAMENTO": 36.2,
+    "VARIAÇÃO": -1.15,
+    "MÍNIMO": 35.5,
+    "MÁXIMO": 36.97,
+    "VOLUME": 136.07
+  },
+  {
+    "DATA": "27/11/2019",
+    "ABERTURA": 36.8,
+    "FECHAMENTO": 36.62,
+    "VARIAÇÃO": -0.49,
+    "MÍNIMO": 36.01,
+    "MÁXIMO": 36.83,
+    "VOLUME": 116.5
+  },
+  {
+    "DATA": "26/11/2019",
+    "ABERTURA": 36.12,
+    "FECHAMENTO": 36.8,
+    "VARIAÇÃO": 1.91,
+    "MÍNIMO": 36.12,
+    "MÁXIMO": 36.8,
+    "VOLUME": 370.38
+  },
+  {
+    "DATA": "25/11/2019",
+    "ABERTURA": 34.1,
+    "FECHAMENTO": 36.11,
+    "VARIAÇÃO": 5.93,
+    "MÍNIMO": 33.91,
+    "MÁXIMO": 36.19,
+    "VOLUME": 284.63
+  },
+  {
+    "DATA": "22/11/2019",
+    "ABERTURA": 33.61,
+    "FECHAMENTO": 34.09,
+    "VARIAÇÃO": 1.22,
+    "MÍNIMO": 33.31,
+    "MÁXIMO": 34.25,
+    "VOLUME": 173.26
+  },
+  {
+    "DATA": "21/11/2019",
+    "ABERTURA": 33.7,
+    "FECHAMENTO": 33.68,
+    "VARIAÇÃO": 0.36,
+    "MÍNIMO": 33.1,
+    "MÁXIMO": 33.85,
+    "VOLUME": 169.96
+  },
+  {
+    "DATA": "19/11/2019",
+    "ABERTURA": 33.39,
+    "FECHAMENTO": 33.56,
+    "VARIAÇÃO": 0.84,
+    "MÍNIMO": 33.3,
+    "MÁXIMO": 34.13,
+    "VOLUME": 136.73
+  },
+  {
+    "DATA": "18/11/2019",
+    "ABERTURA": 33.2,
+    "FECHAMENTO": 33.28,
+    "VARIAÇÃO": 0.97,
+    "MÍNIMO": 32.9,
+    "MÁXIMO": 33.63,
+    "VOLUME": 158.32
+  },
+  {
+    "DATA": "14/11/2019",
+    "ABERTURA": 32.98,
+    "FECHAMENTO": 32.96,
+    "VARIAÇÃO": 0.21,
+    "MÍNIMO": 32.53,
+    "MÁXIMO": 33.2,
+    "VOLUME": 214.41
+  },
+  {
+    "DATA": "13/11/2019",
+    "ABERTURA": 33.13,
+    "FECHAMENTO": 32.89,
+    "VARIAÇÃO": -0.93,
+    "MÍNIMO": 32.71,
+    "MÁXIMO": 33.65,
+    "VOLUME": 264.56
+  },
+  {
+    "DATA": "12/11/2019",
+    "ABERTURA": 34.87,
+    "FECHAMENTO": 33.2,
+    "VARIAÇÃO": -4.24,
+    "MÍNIMO": 33.12,
+    "MÁXIMO": 35.1,
+    "VOLUME": 366.72
+  },
+  {
+    "DATA": "11/11/2019",
+    "ABERTURA": 34.35,
+    "FECHAMENTO": 34.67,
+    "VARIAÇÃO": 0.64,
+    "MÍNIMO": 34.07,
+    "MÁXIMO": 35.08,
+    "VOLUME": 155.6
+  },
+  {
+    "DATA": "08/11/2019",
+    "ABERTURA": 35.6,
+    "FECHAMENTO": 34.45,
+    "VARIAÇÃO": -4.2,
+    "MÍNIMO": 34.15,
+    "MÁXIMO": 35.88,
+    "VOLUME": 438.11
+  },
+  {
+    "DATA": "07/11/2019",
+    "ABERTURA": 35.73,
+    "FECHAMENTO": 35.96,
+    "VARIAÇÃO": 1.24,
+    "MÍNIMO": 35.22,
+    "MÁXIMO": 35.97,
+    "VOLUME": 195.57
+  },
+  {
+    "DATA": "06/11/2019",
+    "ABERTURA": 36.65,
+    "FECHAMENTO": 35.52,
+    "VARIAÇÃO": -2.87,
+    "MÍNIMO": 35.35,
+    "MÁXIMO": 36.77,
+    "VOLUME": 209.33
+  },
+  {
+    "DATA": "05/11/2019",
+    "ABERTURA": 36.5,
+    "FECHAMENTO": 36.57,
+    "VARIAÇÃO": 0.74,
+    "MÍNIMO": 35.8,
+    "MÁXIMO": 36.69,
+    "VOLUME": 228.83
+  },
+  {
+    "DATA": "04/11/2019",
+    "ABERTURA": 35.4,
+    "FECHAMENTO": 36.3,
+    "VARIAÇÃO": 3.13,
+    "MÍNIMO": 35.04,
+    "MÁXIMO": 36.59,
+    "VOLUME": 197.59
+  },
+  {
+    "DATA": "01/11/2019",
+    "ABERTURA": 35.5,
+    "FECHAMENTO": 35.2,
+    "VARIAÇÃO": -0.87,
+    "MÍNIMO": 34.85,
+    "MÁXIMO": 35.68,
+    "VOLUME": 208.83
+  },
+  {
+    "DATA": "31/10/2019",
+    "ABERTURA": 35.57,
+    "FECHAMENTO": 35.51,
+    "VARIAÇÃO": -0.42,
+    "MÍNIMO": 34.91,
+    "MÁXIMO": 35.61,
+    "VOLUME": 130.87
+  },
+  {
+    "DATA": "30/10/2019",
+    "ABERTURA": 35.9,
+    "FECHAMENTO": 35.66,
+    "VARIAÇÃO": -0.11,
+    "MÍNIMO": 35.15,
+    "MÁXIMO": 35.91,
+    "VOLUME": 167.21
+  },
+  {
+    "DATA": "29/10/2019",
+    "ABERTURA": 35.88,
+    "FECHAMENTO": 35.7,
+    "VARIAÇÃO": 0.28,
+    "MÍNIMO": 35.61,
+    "MÁXIMO": 36.29,
+    "VOLUME": 170.23
+  },
+  {
+    "DATA": "28/10/2019",
+    "ABERTURA": 36.7,
+    "FECHAMENTO": 35.6,
+    "VARIAÇÃO": -2.65,
+    "MÍNIMO": 35.51,
+    "MÁXIMO": 36.7,
+    "VOLUME": 239.8
+  },
+  {
+    "DATA": "25/10/2019",
+    "ABERTURA": 37.26,
+    "FECHAMENTO": 36.57,
+    "VARIAÇÃO": -1.72,
+    "MÍNIMO": 36.23,
+    "MÁXIMO": 37.37,
+    "VOLUME": 157.61
+  },
+  {
+    "DATA": "24/10/2019",
+    "ABERTURA": 36.9,
+    "FECHAMENTO": 37.21,
+    "VARIAÇÃO": 1.11,
+    "MÍNIMO": 36.36,
+    "MÁXIMO": 37.24,
+    "VOLUME": 180.2
+  },
+  {
+    "DATA": "23/10/2019",
+    "ABERTURA": 37.6,
+    "FECHAMENTO": 36.8,
+    "VARIAÇÃO": -1.95,
+    "MÍNIMO": 36.55,
+    "MÁXIMO": 37.79,
+    "VOLUME": 243.53
+  },
+  {
+    "DATA": "22/10/2019",
+    "ABERTURA": 37.74,
+    "FECHAMENTO": 37.53,
+    "VARIAÇÃO": -0.58,
+    "MÍNIMO": 37.43,
+    "MÁXIMO": 38.78,
+    "VOLUME": 222.09
+  },
+  {
+    "DATA": "21/10/2019",
+    "ABERTURA": 36.3,
+    "FECHAMENTO": 37.75,
+    "VARIAÇÃO": 4.43,
+    "MÍNIMO": 36.3,
+    "MÁXIMO": 37.75,
+    "VOLUME": 190.18
+  },
+  {
+    "DATA": "18/10/2019",
+    "ABERTURA": 36,
+    "FECHAMENTO": 36.15,
+    "VARIAÇÃO": 0.61,
+    "MÍNIMO": 35.1,
+    "MÁXIMO": 36.2,
+    "VOLUME": 210.69
+  },
+  {
+    "DATA": "17/10/2019",
+    "ABERTURA": 36.5,
+    "FECHAMENTO": 35.93,
+    "VARIAÇÃO": -0.96,
+    "MÍNIMO": 35.76,
+    "MÁXIMO": 36.78,
+    "VOLUME": 139.07
+  },
+  {
+    "DATA": "16/10/2019",
+    "ABERTURA": 35.78,
+    "FECHAMENTO": 36.28,
+    "VARIAÇÃO": 0.81,
+    "MÍNIMO": 35.78,
+    "MÁXIMO": 36.63,
+    "VOLUME": 189.79
+  },
+  {
+    "DATA": "15/10/2019",
+    "ABERTURA": 36.59,
+    "FECHAMENTO": 35.99,
+    "VARIAÇÃO": -1.07,
+    "MÍNIMO": 35.74,
+    "MÁXIMO": 36.89,
+    "VOLUME": 204.98
+  },
+  {
+    "DATA": "14/10/2019",
+    "ABERTURA": 37.3,
+    "FECHAMENTO": 36.38,
+    "VARIAÇÃO": -1.94,
+    "MÍNIMO": 36.35,
+    "MÁXIMO": 37.74,
+    "VOLUME": 156.46
+  },
+  {
+    "DATA": "11/10/2019",
+    "ABERTURA": 36.8,
+    "FECHAMENTO": 37.1,
+    "VARIAÇÃO": 0.65,
+    "MÍNIMO": 36.35,
+    "MÁXIMO": 37.3,
+    "VOLUME": 159.95
+  },
+  {
+    "DATA": "10/10/2019",
+    "ABERTURA": 36.74,
+    "FECHAMENTO": 36.86,
+    "VARIAÇÃO": 0.71,
+    "MÍNIMO": 36.21,
+    "MÁXIMO": 37.19,
+    "VOLUME": 147.25
+  },
+  {
+    "DATA": "09/10/2019",
+    "ABERTURA": 36.94,
+    "FECHAMENTO": 36.6,
+    "VARIAÇÃO": -1.64,
+    "MÍNIMO": 36.35,
+    "MÁXIMO": 37,
+    "VOLUME": 149.17
+  },
+  {
+    "DATA": "08/10/2019",
+    "ABERTURA": 36.56,
+    "FECHAMENTO": 37.21,
+    "VARIAÇÃO": 1.28,
+    "MÍNIMO": 36.56,
+    "MÁXIMO": 37.91,
+    "VOLUME": 188.89
+  },
+  {
+    "DATA": "07/10/2019",
+    "ABERTURA": 37.2,
+    "FECHAMENTO": 36.74,
+    "VARIAÇÃO": -1.71,
+    "MÍNIMO": 36.56,
+    "MÁXIMO": 37.83,
+    "VOLUME": 117.19
+  },
+  {
+    "DATA": "04/10/2019",
+    "ABERTURA": 36.69,
+    "FECHAMENTO": 37.38,
+    "VARIAÇÃO": 2.38,
+    "MÍNIMO": 36.02,
+    "MÁXIMO": 37.62,
+    "VOLUME": 179.08
+  },
+  {
+    "DATA": "03/10/2019",
+    "ABERTURA": 36.51,
+    "FECHAMENTO": 36.51,
+    "VARIAÇÃO": -2.74,
+    "MÍNIMO": 36.41,
+    "MÁXIMO": 37.88,
+    "VOLUME": 200.97
+  },
+  {
+    "DATA": "02/10/2019",
+    "ABERTURA": 37.54,
+    "FECHAMENTO": 37.54,
+    "VARIAÇÃO": -1.18,
+    "MÍNIMO": 37.09,
+    "MÁXIMO": 37.82,
+    "VOLUME": 237.33
+  },
+  {
+    "DATA": "01/10/2019",
+    "ABERTURA": 37.99,
+    "FECHAMENTO": 37.99,
+    "VARIAÇÃO": -0.55,
+    "MÍNIMO": 37.5,
+    "MÁXIMO": 38.23,
+    "VOLUME": 240.35
+  },
+  {
+    "DATA": "30/09/2019",
+    "ABERTURA": 38.2,
+    "FECHAMENTO": 38.2,
+    "VARIAÇÃO": -1.29,
+    "MÍNIMO": 37.88,
+    "MÁXIMO": 38.73,
+    "VOLUME": 251.81
+  },
+  {
+    "DATA": "27/09/2019",
+    "ABERTURA": 38.7,
+    "FECHAMENTO": 38.7,
+    "VARIAÇÃO": -3.06,
+    "MÍNIMO": 38.4,
+    "MÁXIMO": 39.6,
+    "VOLUME": 195.91
+  },
+  {
+    "DATA": "26/09/2019",
+    "ABERTURA": 39.92,
+    "FECHAMENTO": 39.92,
+    "VARIAÇÃO": -1.43,
+    "MÍNIMO": 38.95,
+    "MÁXIMO": 40.7,
+    "VOLUME": 422.35
+  },
+  {
+    "DATA": "25/09/2019",
+    "ABERTURA": 40.5,
+    "FECHAMENTO": 40.5,
+    "VARIAÇÃO": 1.66,
+    "MÍNIMO": 39.62,
+    "MÁXIMO": 41.05,
+    "VOLUME": 298.81
+  },
+  {
+    "DATA": "24/09/2019",
+    "ABERTURA": 39.84,
+    "FECHAMENTO": 39.84,
+    "VARIAÇÃO": 2.81,
+    "MÍNIMO": 38.85,
+    "MÁXIMO": 40.47,
+    "VOLUME": 427.7
+  },
+  {
+    "DATA": "23/09/2019",
+    "ABERTURA": 38.75,
+    "FECHAMENTO": 38.75,
+    "VARIAÇÃO": 0.73,
+    "MÍNIMO": 38.2,
+    "MÁXIMO": 38.94,
+    "VOLUME": 118.67
+  },
+  {
+    "DATA": "20/09/2019",
+    "ABERTURA": 38.47,
+    "FECHAMENTO": 38.47,
+    "VARIAÇÃO": 1.99,
+    "MÍNIMO": 37.75,
+    "MÁXIMO": 38.48,
+    "VOLUME": 310.58
+  },
+  {
+    "DATA": "19/09/2019",
+    "ABERTURA": 37.72,
+    "FECHAMENTO": 37.72,
+    "VARIAÇÃO": -1.75,
+    "MÍNIMO": 37.72,
+    "MÁXIMO": 38.8,
+    "VOLUME": 168.92
+  },
+  {
+    "DATA": "18/09/2019",
+    "ABERTURA": 38.39,
+    "FECHAMENTO": 38.39,
+    "VARIAÇÃO": 0.6,
+    "MÍNIMO": 37.92,
+    "MÁXIMO": 39.05,
+    "VOLUME": 247.53
+  },
+  {
+    "DATA": "17/09/2019",
+    "ABERTURA": 38.16,
+    "FECHAMENTO": 38.16,
+    "VARIAÇÃO": 0.16,
+    "MÍNIMO": 37.6,
+    "MÁXIMO": 38.24,
+    "VOLUME": 140.65
+  },
+  {
+    "DATA": "16/09/2019",
+    "ABERTURA": 38.43,
+    "FECHAMENTO": 38.1,
+    "VARIAÇÃO": 0.26,
+    "MÍNIMO": 37.41,
+    "MÁXIMO": 38.46,
+    "VOLUME": 191.31
+  },
+  {
+    "DATA": "13/09/2019",
+    "ABERTURA": 38,
+    "FECHAMENTO": 38,
+    "VARIAÇÃO": -0.08,
+    "MÍNIMO": 37.53,
+    "MÁXIMO": 38.32,
+    "VOLUME": 210.55
+  },
+  {
+    "DATA": "12/09/2019",
+    "ABERTURA": 38.73,
+    "FECHAMENTO": 38.03,
+    "VARIAÇÃO": -1.09,
+    "MÍNIMO": 37.82,
+    "MÁXIMO": 38.81,
+    "VOLUME": 144.64
+  },
+  {
+    "DATA": "11/09/2019",
+    "ABERTURA": 38.45,
+    "FECHAMENTO": 38.45,
+    "VARIAÇÃO": 1.45,
+    "MÍNIMO": 37.9,
+    "MÁXIMO": 38.67,
+    "VOLUME": 283.59
+  },
+  {
+    "DATA": "10/09/2019",
+    "ABERTURA": 37.3,
+    "FECHAMENTO": 37.9,
+    "VARIAÇÃO": 2.57,
+    "MÍNIMO": 36.27,
+    "MÁXIMO": 38.25,
+    "VOLUME": 335.7
+  },
+  {
+    "DATA": "09/09/2019",
+    "ABERTURA": 36.95,
+    "FECHAMENTO": 36.95,
+    "VARIAÇÃO": -1.15,
+    "MÍNIMO": 36.62,
+    "MÁXIMO": 38.66,
+    "VOLUME": 402.99
+  },
+  {
+    "DATA": "06/09/2019",
+    "ABERTURA": 37.38,
+    "FECHAMENTO": 37.38,
+    "VARIAÇÃO": -1.79,
+    "MÍNIMO": 36.91,
+    "MÁXIMO": 38.43,
+    "VOLUME": 145.97
+  },
+  {
+    "DATA": "05/09/2019",
+    "ABERTURA": 38.06,
+    "FECHAMENTO": 38.06,
+    "VARIAÇÃO": 0.45,
+    "MÍNIMO": 37.65,
+    "MÁXIMO": 38.47,
+    "VOLUME": 144.96
+  },
+  {
+    "DATA": "04/09/2019",
+    "ABERTURA": 38.3,
+    "FECHAMENTO": 37.89,
+    "VARIAÇÃO": 0.45,
+    "MÍNIMO": 37.8,
+    "MÁXIMO": 38.6,
+    "VOLUME": 179.91
+  },
+  {
+    "DATA": "03/09/2019",
+    "ABERTURA": 37.72,
+    "FECHAMENTO": 37.72,
+    "VARIAÇÃO": -1.8,
+    "MÍNIMO": 37.52,
+    "MÁXIMO": 38.59,
+    "VOLUME": 130.07
+  },
+  {
+    "DATA": "02/09/2019",
+    "ABERTURA": 38.41,
+    "FECHAMENTO": 38.41,
+    "VARIAÇÃO": 0.71,
+    "MÍNIMO": 37.96,
+    "MÁXIMO": 38.86,
+    "VOLUME": 111.48
+  },
+  {
+    "DATA": "30/08/2019",
+    "ABERTURA": 38.14,
+    "FECHAMENTO": 38.14,
+    "VARIAÇÃO": -1.88,
+    "MÍNIMO": 37.68,
+    "MÁXIMO": 39.39,
+    "VOLUME": 300.59
+  },
+  {
+    "DATA": "29/08/2019",
+    "ABERTURA": 38.87,
+    "FECHAMENTO": 38.87,
+    "VARIAÇÃO": -0.56,
+    "MÍNIMO": 38.38,
+    "MÁXIMO": 39.39,
+    "VOLUME": 189.04
+  },
+  {
+    "DATA": "28/08/2019",
+    "ABERTURA": 39.09,
+    "FECHAMENTO": 39.09,
+    "VARIAÇÃO": 2.84,
+    "MÍNIMO": 37.43,
+    "MÁXIMO": 39.09,
+    "VOLUME": 196.38
+  },
+  {
+    "DATA": "27/08/2019",
+    "ABERTURA": 38.01,
+    "FECHAMENTO": 38.01,
+    "VARIAÇÃO": 0.34,
+    "MÍNIMO": 37.38,
+    "MÁXIMO": 38.35,
+    "VOLUME": 144.23
+  },
+  {
+    "DATA": "26/08/2019",
+    "ABERTURA": 37.88,
+    "FECHAMENTO": 37.88,
+    "VARIAÇÃO": -1.87,
+    "MÍNIMO": 37.61,
+    "MÁXIMO": 39.27,
+    "VOLUME": 122.04
+  },
+  {
+    "DATA": "23/08/2019",
+    "ABERTURA": 39.15,
+    "FECHAMENTO": 38.6,
+    "VARIAÇÃO": -2.4,
+    "MÍNIMO": 37.88,
+    "MÁXIMO": 39.43,
+    "VOLUME": 282.62
+  },
+  {
+    "DATA": "22/08/2019",
+    "ABERTURA": 38.5,
+    "FECHAMENTO": 39.55,
+    "VARIAÇÃO": 3.1,
+    "MÍNIMO": 38.5,
+    "MÁXIMO": 40.21,
+    "VOLUME": 412.9
+  },
+  {
+    "DATA": "21/08/2019",
+    "ABERTURA": 38.36,
+    "FECHAMENTO": 38.36,
+    "VARIAÇÃO": 1.24,
+    "MÍNIMO": 36.86,
+    "MÁXIMO": 38.45,
+    "VOLUME": 266.68
+  },
+  {
+    "DATA": "20/08/2019",
+    "ABERTURA": 37.89,
+    "FECHAMENTO": 37.89,
+    "VARIAÇÃO": -0.97,
+    "MÍNIMO": 37.59,
+    "MÁXIMO": 38.38,
+    "VOLUME": 138.65
+  },
+  {
+    "DATA": "19/08/2019",
+    "ABERTURA": 38.26,
+    "FECHAMENTO": 38.26,
+    "VARIAÇÃO": -0.8,
+    "MÍNIMO": 37.86,
+    "MÁXIMO": 39.23,
+    "VOLUME": 168.94
+  },
+  {
+    "DATA": "16/08/2019",
+    "ABERTURA": 38.57,
+    "FECHAMENTO": 38.57,
+    "VARIAÇÃO": 1.07,
+    "MÍNIMO": 38.3,
+    "MÁXIMO": 39.07,
+    "VOLUME": 273.39
+  },
+  {
+    "DATA": "15/08/2019",
+    "ABERTURA": 38.16,
+    "FECHAMENTO": 38.16,
+    "VARIAÇÃO": 0.42,
+    "MÍNIMO": 37.59,
+    "MÁXIMO": 38.93,
+    "VOLUME": 214.63
+  },
+  {
+    "DATA": "14/08/2019",
+    "ABERTURA": 38.99,
+    "FECHAMENTO": 38,
+    "VARIAÇÃO": -2.56,
+    "MÍNIMO": 37.84,
+    "MÁXIMO": 39.26,
+    "VOLUME": 195.5
+  },
+  {
+    "DATA": "13/08/2019",
+    "ABERTURA": 38.66,
+    "FECHAMENTO": 39,
+    "VARIAÇÃO": 0.96,
+    "MÍNIMO": 38.43,
+    "MÁXIMO": 39.3,
+    "VOLUME": 336.49
+  },
+  {
+    "DATA": "12/08/2019",
+    "ABERTURA": 38.63,
+    "FECHAMENTO": 38.63,
+    "VARIAÇÃO": 1.23,
+    "MÍNIMO": 37.21,
+    "MÁXIMO": 38.84,
+    "VOLUME": 302.06
+  },
+  {
+    "DATA": "09/08/2019",
+    "ABERTURA": 39.2,
+    "FECHAMENTO": 38.16,
+    "VARIAÇÃO": 5.07,
+    "MÍNIMO": 38.05,
+    "MÁXIMO": 39.6,
+    "VOLUME": 615.52
+  },
+  {
+    "DATA": "08/08/2019",
+    "ABERTURA": 34.82,
+    "FECHAMENTO": 36.32,
+    "VARIAÇÃO": 4.94,
+    "MÍNIMO": 34.78,
+    "MÁXIMO": 36.49,
+    "VOLUME": 257.21
+  },
+  {
+    "DATA": "07/08/2019",
+    "ABERTURA": 34.61,
+    "FECHAMENTO": 34.61,
+    "VARIAÇÃO": 0.14,
+    "MÍNIMO": 33.55,
+    "MÁXIMO": 34.61,
+    "VOLUME": 101.85
+  },
+  {
+    "DATA": "06/08/2019",
+    "ABERTURA": 34.56,
+    "FECHAMENTO": 34.56,
+    "VARIAÇÃO": 2.67,
+    "MÍNIMO": 33.56,
+    "MÁXIMO": 34.85,
+    "VOLUME": 143.75
+  },
+  {
+    "DATA": "05/08/2019",
+    "ABERTURA": 33.66,
+    "FECHAMENTO": 33.66,
+    "VARIAÇÃO": -1.29,
+    "MÍNIMO": 33.21,
+    "MÁXIMO": 34.2,
+    "VOLUME": 153.84
+  },
+  {
+    "DATA": "02/08/2019",
+    "ABERTURA": 34.1,
+    "FECHAMENTO": 34.1,
+    "VARIAÇÃO": -0.15,
+    "MÍNIMO": 33.48,
+    "MÁXIMO": 34.18,
+    "VOLUME": 118.33
+  },
+  {
+    "DATA": "01/08/2019",
+    "ABERTURA": 33.47,
+    "FECHAMENTO": 34.15,
+    "VARIAÇÃO": 2.21,
+    "MÍNIMO": 33.28,
+    "MÁXIMO": 34.98,
+    "VOLUME": 165.99
+  },
+  {
+    "DATA": "31/07/2019",
+    "ABERTURA": 33.41,
+    "FECHAMENTO": 33.41,
+    "VARIAÇÃO": -0.71,
+    "MÍNIMO": 32.84,
+    "MÁXIMO": 33.83,
+    "VOLUME": 150.27
+  },
+  {
+    "DATA": "30/07/2019",
+    "ABERTURA": 33.65,
+    "FECHAMENTO": 33.65,
+    "VARIAÇÃO": -0.15,
+    "MÍNIMO": 33.15,
+    "MÁXIMO": 34.08,
+    "VOLUME": 100.57
+  },
+  {
+    "DATA": "29/07/2019",
+    "ABERTURA": 33.7,
+    "FECHAMENTO": 33.7,
+    "VARIAÇÃO": -0.88,
+    "MÍNIMO": 32.51,
+    "MÁXIMO": 33.73,
+    "VOLUME": 247.35
+  },
+  {
+    "DATA": "26/07/2019",
+    "ABERTURA": 34,
+    "FECHAMENTO": 34,
+    "VARIAÇÃO": 1.83,
+    "MÍNIMO": 33.16,
+    "MÁXIMO": 34.32,
+    "VOLUME": 140.07
+  },
+  {
+    "DATA": "25/07/2019",
+    "ABERTURA": 34.2,
+    "FECHAMENTO": 33.39,
+    "VARIAÇÃO": -1.97,
+    "MÍNIMO": 33.03,
+    "MÁXIMO": 34.32,
+    "VOLUME": 113.77
+  },
+  {
+    "DATA": "24/07/2019",
+    "ABERTURA": 34.06,
+    "FECHAMENTO": 34.06,
+    "VARIAÇÃO": 0.92,
+    "MÍNIMO": 33.56,
+    "MÁXIMO": 34.18,
+    "VOLUME": 132.17
+  },
+  {
+    "DATA": "23/07/2019",
+    "ABERTURA": 33.75,
+    "FECHAMENTO": 33.75,
+    "VARIAÇÃO": -2.32,
+    "MÍNIMO": 33.64,
+    "MÁXIMO": 34.88,
+    "VOLUME": 159.6
+  },
+  {
+    "DATA": "22/07/2019",
+    "ABERTURA": 34.55,
+    "FECHAMENTO": 34.55,
+    "VARIAÇÃO": 3.29,
+    "MÍNIMO": 34.06,
+    "MÁXIMO": 35.19,
+    "VOLUME": 212.96
+  },
+  {
+    "DATA": "19/07/2019",
+    "ABERTURA": 33.45,
+    "FECHAMENTO": 33.45,
+    "VARIAÇÃO": 1.49,
+    "MÍNIMO": 32.54,
+    "MÁXIMO": 33.59,
+    "VOLUME": 153.03
+  },
+  {
+    "DATA": "18/07/2019",
+    "ABERTURA": 32.96,
+    "FECHAMENTO": 32.96,
+    "VARIAÇÃO": 0.3,
+    "MÍNIMO": 32.56,
+    "MÁXIMO": 33.5,
+    "VOLUME": 111.56
+  },
+  {
+    "DATA": "17/07/2019",
+    "ABERTURA": 32.95,
+    "FECHAMENTO": 32.86,
+    "VARIAÇÃO": 0.43,
+    "MÍNIMO": 32.51,
+    "MÁXIMO": 32.99,
+    "VOLUME": 87.91
+  },
+  {
+    "DATA": "16/07/2019",
+    "ABERTURA": 33.45,
+    "FECHAMENTO": 32.72,
+    "VARIAÇÃO": -2.18,
+    "MÍNIMO": 32.51,
+    "MÁXIMO": 33.56,
+    "VOLUME": 119.62
+  },
+  {
+    "DATA": "15/07/2019",
+    "ABERTURA": 33.45,
+    "FECHAMENTO": 33.45,
+    "VARIAÇÃO": -0.27,
+    "MÍNIMO": 33,
+    "MÁXIMO": 33.92,
+    "VOLUME": 109.27
+  },
+  {
+    "DATA": "12/07/2019",
+    "ABERTURA": 34.56,
+    "FECHAMENTO": 33.54,
+    "VARIAÇÃO": -1.15,
+    "MÍNIMO": 33.42,
+    "MÁXIMO": 35.26,
+    "VOLUME": 240.44
+  },
+  {
+    "DATA": "11/07/2019",
+    "ABERTURA": 33.93,
+    "FECHAMENTO": 33.93,
+    "VARIAÇÃO": -3,
+    "MÍNIMO": 33.85,
+    "MÁXIMO": 35.23,
+    "VOLUME": 203.7
+  },
+  {
+    "DATA": "10/07/2019",
+    "ABERTURA": 34.4,
+    "FECHAMENTO": 34.98,
+    "VARIAÇÃO": 1.77,
+    "MÍNIMO": 34.36,
+    "MÁXIMO": 35,
+    "VOLUME": 287.76
+  },
+  {
+    "DATA": "08/07/2019",
+    "ABERTURA": 34.37,
+    "FECHAMENTO": 34.37,
+    "VARIAÇÃO": 0.5,
+    "MÍNIMO": 33.76,
+    "MÁXIMO": 34.67,
+    "VOLUME": 141.64
+  },
+  {
+    "DATA": "05/07/2019",
+    "ABERTURA": 34.2,
+    "FECHAMENTO": 34.2,
+    "VARIAÇÃO": -0.09,
+    "MÍNIMO": 33.56,
+    "MÁXIMO": 34.42,
+    "VOLUME": 207.87
+  },
+  {
+    "DATA": "04/07/2019",
+    "ABERTURA": 34.23,
+    "FECHAMENTO": 34.23,
+    "VARIAÇÃO": 0.68,
+    "MÍNIMO": 33.9,
+    "MÁXIMO": 34.56,
+    "VOLUME": 177.68
+  },
+  {
+    "DATA": "03/07/2019",
+    "ABERTURA": 34,
+    "FECHAMENTO": 34,
+    "VARIAÇÃO": 2.41,
+    "MÍNIMO": 32.82,
+    "MÁXIMO": 34.16,
+    "VOLUME": 267.17
+  },
+  {
+    "DATA": "02/07/2019",
+    "ABERTURA": 31.79,
+    "FECHAMENTO": 33.2,
+    "VARIAÇÃO": 3.49,
+    "MÍNIMO": 31.48,
+    "MÁXIMO": 33.2,
+    "VOLUME": 371.63
+  },
+  {
+    "DATA": "01/07/2019",
+    "ABERTURA": 32.08,
+    "FECHAMENTO": 32.08,
+    "VARIAÇÃO": 8.67,
+    "MÍNIMO": 29.95,
+    "MÁXIMO": 32.08,
+    "VOLUME": 466.61
+  },
+  {
+    "DATA": "28/06/2019",
+    "ABERTURA": 29.52,
+    "FECHAMENTO": 29.52,
+    "VARIAÇÃO": 1.44,
+    "MÍNIMO": 29.01,
+    "MÁXIMO": 29.87,
+    "VOLUME": 217.13
+  },
+  {
+    "DATA": "27/06/2019",
+    "ABERTURA": 29.1,
+    "FECHAMENTO": 29.1,
+    "VARIAÇÃO": 2.03,
+    "MÍNIMO": 28.1,
+    "MÁXIMO": 29.14,
+    "VOLUME": 107.1
+  },
+  {
+    "DATA": "26/06/2019",
+    "ABERTURA": 28.52,
+    "FECHAMENTO": 28.52,
+    "VARIAÇÃO": -0.8,
+    "MÍNIMO": 28.32,
+    "MÁXIMO": 29,
+    "VOLUME": 83.11
+  },
+  {
+    "DATA": "25/06/2019",
+    "ABERTURA": 28.75,
+    "FECHAMENTO": 28.75,
+    "VARIAÇÃO": -0.76,
+    "MÍNIMO": 28.6,
+    "MÁXIMO": 29.12,
+    "VOLUME": 136.03
+  },
+  {
+    "DATA": "24/06/2019",
+    "ABERTURA": 28.66,
+    "FECHAMENTO": 28.97,
+    "VARIAÇÃO": 1.08,
+    "MÍNIMO": 28.45,
+    "MÁXIMO": 29.35,
+    "VOLUME": 123.66
+  },
+  {
+    "DATA": "21/06/2019",
+    "ABERTURA": 28.66,
+    "FECHAMENTO": 28.66,
+    "VARIAÇÃO": 0.21,
+    "MÍNIMO": 28.19,
+    "MÁXIMO": 28.81,
+    "VOLUME": 139.7
+  },
+  {
+    "DATA": "19/06/2019",
+    "ABERTURA": 28.25,
+    "FECHAMENTO": 28.6,
+    "VARIAÇÃO": 1.42,
+    "MÍNIMO": 27.78,
+    "MÁXIMO": 28.6,
+    "VOLUME": 166.77
+  },
+  {
+    "DATA": "18/06/2019",
+    "ABERTURA": 28.2,
+    "FECHAMENTO": 28.2,
+    "VARIAÇÃO": -1.74,
+    "MÍNIMO": 28.16,
+    "MÁXIMO": 28.9,
+    "VOLUME": 119.24
+  },
+  {
+    "DATA": "17/06/2019",
+    "ABERTURA": 28.7,
+    "FECHAMENTO": 28.7,
+    "VARIAÇÃO": -1.37,
+    "MÍNIMO": 28.3,
+    "MÁXIMO": 29.2,
+    "VOLUME": 237.99
+  },
+  {
+    "DATA": "14/06/2019",
+    "ABERTURA": 29.1,
+    "FECHAMENTO": 29.1,
+    "VARIAÇÃO": 1.86,
+    "MÍNIMO": 27.7,
+    "MÁXIMO": 29.15,
+    "VOLUME": 362.95
+  },
+  {
+    "DATA": "13/06/2019",
+    "ABERTURA": 28.05,
+    "FECHAMENTO": 28.57,
+    "VARIAÇÃO": 5.81,
+    "MÍNIMO": 27.7,
+    "MÁXIMO": 28.68,
+    "VOLUME": 333.87
+  },
+  {
+    "DATA": "12/06/2019",
+    "ABERTURA": 27,
+    "FECHAMENTO": 27,
+    "VARIAÇÃO": 0,
+    "MÍNIMO": 26.64,
+    "MÁXIMO": 27,
+    "VOLUME": 122.2
+  },
+  {
+    "DATA": "11/06/2019",
+    "ABERTURA": 27,
+    "FECHAMENTO": 27,
+    "VARIAÇÃO": -0.74,
+    "MÍNIMO": 26.85,
+    "MÁXIMO": 27.5,
+    "VOLUME": 151.49
+  },
+  {
+    "DATA": "10/06/2019",
+    "ABERTURA": 26.09,
+    "FECHAMENTO": 27.2,
+    "VARIAÇÃO": 3.98,
+    "MÍNIMO": 25.88,
+    "MÁXIMO": 27.36,
+    "VOLUME": 148.01
+  },
+  {
+    "DATA": "07/06/2019",
+    "ABERTURA": 26.16,
+    "FECHAMENTO": 26.16,
+    "VARIAÇÃO": -4.56,
+    "MÍNIMO": 26.16,
+    "MÁXIMO": 27.7,
+    "VOLUME": 257.03
+  },
+  {
+    "DATA": "06/06/2019",
+    "ABERTURA": 27.41,
+    "FECHAMENTO": 27.41,
+    "VARIAÇÃO": 1.14,
+    "MÍNIMO": 26.84,
+    "MÁXIMO": 27.45,
+    "VOLUME": 127.8
+  },
+  {
+    "DATA": "05/06/2019",
+    "ABERTURA": 27.1,
+    "FECHAMENTO": 27.1,
+    "VARIAÇÃO": -3.42,
+    "MÍNIMO": 27.03,
+    "MÁXIMO": 28.42,
+    "VOLUME": 147.08
+  },
+  {
+    "DATA": "04/06/2019",
+    "ABERTURA": 28.06,
+    "FECHAMENTO": 28.06,
+    "VARIAÇÃO": 1.67,
+    "MÍNIMO": 27.6,
+    "MÁXIMO": 28.18,
+    "VOLUME": 191.18
+  },
+  {
+    "DATA": "03/06/2019",
+    "ABERTURA": 27.6,
+    "FECHAMENTO": 27.6,
+    "VARIAÇÃO": -0.36,
+    "MÍNIMO": 26.75,
+    "MÁXIMO": 27.94,
+    "VOLUME": 243.69
+  },
+  {
+    "DATA": "31/05/2019",
+    "ABERTURA": 27.7,
+    "FECHAMENTO": 27.7,
+    "VARIAÇÃO": -4.52,
+    "MÍNIMO": 27.31,
+    "MÁXIMO": 29.36,
+    "VOLUME": 632.62
+  },
+  {
+    "DATA": "30/05/2019",
+    "ABERTURA": 29.01,
+    "FECHAMENTO": 29.01,
+    "VARIAÇÃO": 0.97,
+    "MÍNIMO": 28.3,
+    "MÁXIMO": 29.45,
+    "VOLUME": 251.99
+  },
+  {
+    "DATA": "29/05/2019",
+    "ABERTURA": 28.73,
+    "FECHAMENTO": 28.73,
+    "VARIAÇÃO": -5.49,
+    "MÍNIMO": 28.55,
+    "MÁXIMO": 30.25,
+    "VOLUME": 357.15
+  },
+  {
+    "DATA": "28/05/2019",
+    "ABERTURA": 30.4,
+    "FECHAMENTO": 30.4,
+    "VARIAÇÃO": -3.92,
+    "MÍNIMO": 30.28,
+    "MÁXIMO": 31.89,
+    "VOLUME": 270.2
+  },
+  {
+    "DATA": "27/05/2019",
+    "ABERTURA": 32.1,
+    "FECHAMENTO": 31.64,
+    "VARIAÇÃO": -0.66,
+    "MÍNIMO": 31.47,
+    "MÁXIMO": 32.19,
+    "VOLUME": 102.5
+  },
+  {
+    "DATA": "24/05/2019",
+    "ABERTURA": 31.85,
+    "FECHAMENTO": 31.85,
+    "VARIAÇÃO": 3.07,
+    "MÍNIMO": 31.3,
+    "MÁXIMO": 32.09,
+    "VOLUME": 165.95
+  },
+  {
+    "DATA": "23/05/2019",
+    "ABERTURA": 30.9,
+    "FECHAMENTO": 30.9,
+    "VARIAÇÃO": 1.01,
+    "MÍNIMO": 30.32,
+    "MÁXIMO": 32.2,
+    "VOLUME": 315.9
+  },
+  {
+    "DATA": "22/05/2019",
+    "ABERTURA": 30.59,
+    "FECHAMENTO": 30.59,
+    "VARIAÇÃO": 1.83,
+    "MÍNIMO": 29.87,
+    "MÁXIMO": 30.72,
+    "VOLUME": 288.16
+  },
+  {
+    "DATA": "21/05/2019",
+    "ABERTURA": 30.04,
+    "FECHAMENTO": 30.04,
+    "VARIAÇÃO": -5.59,
+    "MÍNIMO": 30.04,
+    "MÁXIMO": 32.25,
+    "VOLUME": 433.6
+  },
+  {
+    "DATA": "20/05/2019",
+    "ABERTURA": 31.82,
+    "FECHAMENTO": 31.82,
+    "VARIAÇÃO": 0.54,
+    "MÍNIMO": 31.73,
+    "MÁXIMO": 32.4,
+    "VOLUME": 248.7
+  },
+  {
+    "DATA": "17/05/2019",
+    "ABERTURA": 31.65,
+    "FECHAMENTO": 31.65,
+    "VARIAÇÃO": -1.31,
+    "MÍNIMO": 31.65,
+    "MÁXIMO": 32.77,
+    "VOLUME": 243.68
+  },
+  {
+    "DATA": "16/05/2019",
+    "ABERTURA": 32.07,
+    "FECHAMENTO": 32.07,
+    "VARIAÇÃO": 1.71,
+    "MÍNIMO": 31.02,
+    "MÁXIMO": 32.82,
+    "VOLUME": 363.06
+  },
+  {
+    "DATA": "15/05/2019",
+    "ABERTURA": 31.53,
+    "FECHAMENTO": 31.53,
+    "VARIAÇÃO": 0.86,
+    "MÍNIMO": 30.41,
+    "MÁXIMO": 31.53,
+    "VOLUME": 276.53
+  },
+  {
+    "DATA": "14/05/2019",
+    "ABERTURA": 31.26,
+    "FECHAMENTO": 31.26,
+    "VARIAÇÃO": 4.27,
+    "MÍNIMO": 30.03,
+    "MÁXIMO": 31.5,
+    "VOLUME": 278.53
+  },
+  {
+    "DATA": "13/05/2019",
+    "ABERTURA": 29.98,
+    "FECHAMENTO": 29.98,
+    "VARIAÇÃO": 0.33,
+    "MÍNIMO": 29.4,
+    "MÁXIMO": 30.14,
+    "VOLUME": 184.78
+  },
+  {
+    "DATA": "10/05/2019",
+    "ABERTURA": 29.88,
+    "FECHAMENTO": 29.88,
+    "VARIAÇÃO": -3.3,
+    "MÍNIMO": 29.39,
+    "MÁXIMO": 30.49,
+    "VOLUME": 296.09
+  },
+  {
+    "DATA": "09/05/2019",
+    "ABERTURA": 30.27,
+    "FECHAMENTO": 30.9,
+    "VARIAÇÃO": 1.68,
+    "MÍNIMO": 29.84,
+    "MÁXIMO": 31.06,
+    "VOLUME": 242.3
+  },
+  {
+    "DATA": "08/05/2019",
+    "ABERTURA": 30.39,
+    "FECHAMENTO": 30.39,
+    "VARIAÇÃO": -2.13,
+    "MÍNIMO": 30.33,
+    "MÁXIMO": 31.5,
+    "VOLUME": 294.73
+  },
+  {
+    "DATA": "07/05/2019",
+    "ABERTURA": 30.86,
+    "FECHAMENTO": 31.05,
+    "VARIAÇÃO": 0,
+    "MÍNIMO": 30.13,
+    "MÁXIMO": 31.09,
+    "VOLUME": 179.56
+  },
+  {
+    "DATA": "06/05/2019",
+    "ABERTURA": 31.05,
+    "FECHAMENTO": 31.05,
+    "VARIAÇÃO": 1.07,
+    "MÍNIMO": 30.08,
+    "MÁXIMO": 31.28,
+    "VOLUME": 237.27
+  },
+  {
+    "DATA": "03/05/2019",
+    "ABERTURA": 30.72,
+    "FECHAMENTO": 30.72,
+    "VARIAÇÃO": -0.13,
+    "MÍNIMO": 30.24,
+    "MÁXIMO": 31.19,
+    "VOLUME": 206.09
+  },
+  {
+    "DATA": "02/05/2019",
+    "ABERTURA": 30.76,
+    "FECHAMENTO": 30.76,
+    "VARIAÇÃO": -0.93,
+    "MÍNIMO": 30.2,
+    "MÁXIMO": 30.93,
+    "VOLUME": 184.45
+  },
+  {
+    "DATA": "30/04/2019",
+    "ABERTURA": 31.05,
+    "FECHAMENTO": 31.05,
+    "VARIAÇÃO": 1.87,
+    "MÍNIMO": 30.2,
+    "MÁXIMO": 31.05,
+    "VOLUME": 222.02
+  },
+  {
+    "DATA": "29/04/2019",
+    "ABERTURA": 30.48,
+    "FECHAMENTO": 30.48,
+    "VARIAÇÃO": -0.07,
+    "MÍNIMO": 29.72,
+    "MÁXIMO": 31,
+    "VOLUME": 238.63
+  },
+  {
+    "DATA": "26/04/2019",
+    "ABERTURA": 30.3,
+    "FECHAMENTO": 30.5,
+    "VARIAÇÃO": -0.72,
+    "MÍNIMO": 29.72,
+    "MÁXIMO": 30.88,
+    "VOLUME": 255.49
+  },
+  {
+    "DATA": "25/04/2019",
+    "ABERTURA": 30.72,
+    "FECHAMENTO": 30.72,
+    "VARIAÇÃO": 3.02,
+    "MÍNIMO": 29.6,
+    "MÁXIMO": 30.72,
+    "VOLUME": 387.54
+  },
+  {
+    "DATA": "24/04/2019",
+    "ABERTURA": 29.82,
+    "FECHAMENTO": 29.82,
+    "VARIAÇÃO": -0.33,
+    "MÍNIMO": 29.52,
+    "MÁXIMO": 30.54,
+    "VOLUME": 415.13
+  },
+  {
+    "DATA": "23/04/2019",
+    "ABERTURA": 29.92,
+    "FECHAMENTO": 29.92,
+    "VARIAÇÃO": 6.86,
+    "MÍNIMO": 27.98,
+    "MÁXIMO": 30.18,
+    "VOLUME": 471.25
+  },
+  {
+    "DATA": "22/04/2019",
+    "ABERTURA": 28,
+    "FECHAMENTO": 28,
+    "VARIAÇÃO": 1.41,
+    "MÍNIMO": 27.4,
+    "MÁXIMO": 28.27,
+    "VOLUME": 144.03
+  },
+  {
+    "DATA": "18/04/2019",
+    "ABERTURA": 27.61,
+    "FECHAMENTO": 27.61,
+    "VARIAÇÃO": -2.2,
+    "MÍNIMO": 27.15,
+    "MÁXIMO": 28.74,
+    "VOLUME": 452.29
+  },
+  {
+    "DATA": "17/04/2019",
+    "ABERTURA": 28.23,
+    "FECHAMENTO": 28.23,
+    "VARIAÇÃO": 1.99,
+    "MÍNIMO": 27.35,
+    "MÁXIMO": 28.62,
+    "VOLUME": 509.86
+  },
+  {
+    "DATA": "16/04/2019",
+    "ABERTURA": 27.68,
+    "FECHAMENTO": 27.68,
+    "VARIAÇÃO": 6.01,
+    "MÍNIMO": 26.15,
+    "MÁXIMO": 28.1,
+    "VOLUME": 545.34
+  },
+  {
+    "DATA": "15/04/2019",
+    "ABERTURA": 25.61,
+    "FECHAMENTO": 26.11,
+    "VARIAÇÃO": 1.87,
+    "MÍNIMO": 25.3,
+    "MÁXIMO": 26.44,
+    "VOLUME": 262.47
+  },
+  {
+    "DATA": "12/04/2019",
+    "ABERTURA": 25.63,
+    "FECHAMENTO": 25.63,
+    "VARIAÇÃO": 1.71,
+    "MÍNIMO": 24.77,
+    "MÁXIMO": 25.79,
+    "VOLUME": 247.21
+  },
+  {
+    "DATA": "11/04/2019",
+    "ABERTURA": 25.2,
+    "FECHAMENTO": 25.2,
+    "VARIAÇÃO": 0.88,
+    "MÍNIMO": 24.62,
+    "MÁXIMO": 25.23,
+    "VOLUME": 178.9
+  },
+  {
+    "DATA": "10/04/2019",
+    "ABERTURA": 24.98,
+    "FECHAMENTO": 24.98,
+    "VARIAÇÃO": 2.08,
+    "MÍNIMO": 24.2,
+    "MÁXIMO": 25.05,
+    "VOLUME": 311.59
+  },
+  {
+    "DATA": "09/04/2019",
+    "ABERTURA": 23.85,
+    "FECHAMENTO": 24.47,
+    "VARIAÇÃO": 1.62,
+    "MÍNIMO": 23.73,
+    "MÁXIMO": 24.47,
+    "VOLUME": 177.03
+  },
+  {
+    "DATA": "08/04/2019",
+    "ABERTURA": 23.9,
+    "FECHAMENTO": 24.08,
+    "VARIAÇÃO": 1.09,
+    "MÍNIMO": 23.58,
+    "MÁXIMO": 24.13,
+    "VOLUME": 118.51
+  },
+  {
+    "DATA": "05/04/2019",
+    "ABERTURA": 23.82,
+    "FECHAMENTO": 23.82,
+    "VARIAÇÃO": 1.1,
+    "MÍNIMO": 23.39,
+    "MÁXIMO": 24.07,
+    "VOLUME": 127.92
+  },
+  {
+    "DATA": "04/04/2019",
+    "ABERTURA": 23.56,
+    "FECHAMENTO": 23.56,
+    "VARIAÇÃO": 2.43,
+    "MÍNIMO": 22.97,
+    "MÁXIMO": 23.58,
+    "VOLUME": 119.3
+  },
+  {
+    "DATA": "03/04/2019",
+    "ABERTURA": 23,
+    "FECHAMENTO": 23,
+    "VARIAÇÃO": 0.22,
+    "MÍNIMO": 22.76,
+    "MÁXIMO": 23.45,
+    "VOLUME": 92.27
+  },
+  {
+    "DATA": "02/04/2019",
+    "ABERTURA": 22.61,
+    "FECHAMENTO": 22.95,
+    "VARIAÇÃO": -0.22,
+    "MÍNIMO": 22.6,
+    "MÁXIMO": 23.3,
+    "VOLUME": 84.34
+  },
+  {
+    "DATA": "01/04/2019",
+    "ABERTURA": 22.9,
+    "FECHAMENTO": 23,
+    "VARIAÇÃO": 1.55,
+    "MÍNIMO": 22.88,
+    "MÁXIMO": 23.32,
+    "VOLUME": 111.95
+  },
+  {
+    "DATA": "29/03/2019",
+    "ABERTURA": 22.65,
+    "FECHAMENTO": 22.65,
+    "VARIAÇÃO": 0.22,
+    "MÍNIMO": 22.33,
+    "MÁXIMO": 23.05,
+    "VOLUME": 246.06
+  },
+  {
+    "DATA": "28/03/2019",
+    "ABERTURA": 22.6,
+    "FECHAMENTO": 22.6,
+    "VARIAÇÃO": 3.01,
+    "MÍNIMO": 21.7,
+    "MÁXIMO": 22.8,
+    "VOLUME": 146.46
+  },
+  {
+    "DATA": "27/03/2019",
+    "ABERTURA": 22.06,
+    "FECHAMENTO": 21.94,
+    "VARIAÇÃO": -1.79,
+    "MÍNIMO": 21.61,
+    "MÁXIMO": 22.27,
+    "VOLUME": 141.5
+  },
+  {
+    "DATA": "26/03/2019",
+    "ABERTURA": 22.34,
+    "FECHAMENTO": 22.34,
+    "VARIAÇÃO": 2.24,
+    "MÍNIMO": 21.73,
+    "MÁXIMO": 22.56,
+    "VOLUME": 171.17
+  },
+  {
+    "DATA": "25/03/2019",
+    "ABERTURA": 21.85,
+    "FECHAMENTO": 21.85,
+    "VARIAÇÃO": -1.58,
+    "MÍNIMO": 21.67,
+    "MÁXIMO": 22.2,
+    "VOLUME": 119.88
+  },
+  {
+    "DATA": "22/03/2019",
+    "ABERTURA": 22.2,
+    "FECHAMENTO": 22.2,
+    "VARIAÇÃO": -2.2,
+    "MÍNIMO": 21.9,
+    "MÁXIMO": 22.76,
+    "VOLUME": 169.56
+  },
+  {
+    "DATA": "21/03/2019",
+    "ABERTURA": 22.7,
+    "FECHAMENTO": 22.7,
+    "VARIAÇÃO": -1.09,
+    "MÍNIMO": 22.25,
+    "MÁXIMO": 23.07,
+    "VOLUME": 130.68
+  },
+  {
+    "DATA": "20/03/2019",
+    "ABERTURA": 22.9,
+    "FECHAMENTO": 22.95,
+    "VARIAÇÃO": -0.48,
+    "MÍNIMO": 22.62,
+    "MÁXIMO": 23.22,
+    "VOLUME": 141.23
+  },
+  {
+    "DATA": "19/03/2019",
+    "ABERTURA": 23.06,
+    "FECHAMENTO": 23.06,
+    "VARIAÇÃO": -0.3,
+    "MÍNIMO": 22.79,
+    "MÁXIMO": 23.5,
+    "VOLUME": 169.3
+  },
+  {
+    "DATA": "18/03/2019",
+    "ABERTURA": 23.29,
+    "FECHAMENTO": 23.13,
+    "VARIAÇÃO": 4.14,
+    "MÍNIMO": 21.9,
+    "MÁXIMO": 23.29,
+    "VOLUME": 278.92
+  },
+  {
+    "DATA": "15/03/2019",
+    "ABERTURA": 22.22,
+    "FECHAMENTO": 22.21,
+    "VARIAÇÃO": 6.88,
+    "MÍNIMO": 20.65,
+    "MÁXIMO": 22.48,
+    "VOLUME": 421.26
+  },
+  {
+    "DATA": "14/03/2019",
+    "ABERTURA": 20.75,
+    "FECHAMENTO": 20.78,
+    "VARIAÇÃO": 2.11,
+    "MÍNIMO": 20.4,
+    "MÁXIMO": 20.84,
+    "VOLUME": 214.09
+  },
+  {
+    "DATA": "13/03/2019",
+    "ABERTURA": 20.25,
+    "FECHAMENTO": 20.35,
+    "VARIAÇÃO": 1.5,
+    "MÍNIMO": 20.1,
+    "MÁXIMO": 20.49,
+    "VOLUME": 141.55
+  },
+  {
+    "DATA": "12/03/2019",
+    "ABERTURA": 20.05,
+    "FECHAMENTO": 20.05,
+    "VARIAÇÃO": -1.23,
+    "MÍNIMO": 20,
+    "MÁXIMO": 20.61,
+    "VOLUME": 159.04
+  },
+  {
+    "DATA": "11/03/2019",
+    "ABERTURA": 20.33,
+    "FECHAMENTO": 20.3,
+    "VARIAÇÃO": 2.22,
+    "MÍNIMO": 19.94,
+    "MÁXIMO": 20.43,
+    "VOLUME": 137.38
+  },
+  {
+    "DATA": "08/03/2019",
+    "ABERTURA": 19.86,
+    "FECHAMENTO": 19.86,
+    "VARIAÇÃO": 1.9,
+    "MÍNIMO": 19.33,
+    "MÁXIMO": 20.08,
+    "VOLUME": 182.63
+  },
+  {
+    "DATA": "07/03/2019",
+    "ABERTURA": 19.49,
+    "FECHAMENTO": 19.49,
+    "VARIAÇÃO": -1.57,
+    "MÍNIMO": 19.49,
+    "MÁXIMO": 19.98,
+    "VOLUME": 129.62
+  },
+  {
+    "DATA": "06/03/2019",
+    "ABERTURA": 20.15,
+    "FECHAMENTO": 19.8,
+    "VARIAÇÃO": -3.51,
+    "MÍNIMO": 19.8,
+    "MÁXIMO": 20.21,
+    "VOLUME": 97.68
+  },
+  {
+    "DATA": "01/03/2019",
+    "ABERTURA": 20.52,
+    "FECHAMENTO": 20.52,
+    "VARIAÇÃO": -0.24,
+    "MÍNIMO": 20.38,
+    "MÁXIMO": 21,
+    "VOLUME": 113.94
+  },
+  {
+    "DATA": "28/02/2019",
+    "ABERTURA": 20.57,
+    "FECHAMENTO": 20.57,
+    "VARIAÇÃO": -4.77,
+    "MÍNIMO": 20.31,
+    "MÁXIMO": 22.2,
+    "VOLUME": 411.1
+  },
+  {
+    "DATA": "27/02/2019",
+    "ABERTURA": 21.6,
+    "FECHAMENTO": 21.6,
+    "VARIAÇÃO": -1.28,
+    "MÍNIMO": 21.58,
+    "MÁXIMO": 22,
+    "VOLUME": 84.66
+  },
+  {
+    "DATA": "26/02/2019",
+    "ABERTURA": 21.88,
+    "FECHAMENTO": 21.88,
+    "VARIAÇÃO": -1.62,
+    "MÍNIMO": 21.81,
+    "MÁXIMO": 22.31,
+    "VOLUME": 92.12
+  },
+  {
+    "DATA": "25/02/2019",
+    "ABERTURA": 22.24,
+    "FECHAMENTO": 22.24,
+    "VARIAÇÃO": -0.22,
+    "MÍNIMO": 22.06,
+    "MÁXIMO": 22.57,
+    "VOLUME": 93.46
+  },
+  {
+    "DATA": "22/02/2019",
+    "ABERTURA": 22.29,
+    "FECHAMENTO": 22.29,
+    "VARIAÇÃO": 1,
+    "MÍNIMO": 21.94,
+    "MÁXIMO": 22.29,
+    "VOLUME": 81.55
+  },
+  {
+    "DATA": "21/02/2019",
+    "ABERTURA": 22.07,
+    "FECHAMENTO": 22.07,
+    "VARIAÇÃO": -2.6,
+    "MÍNIMO": 22.05,
+    "MÁXIMO": 22.7,
+    "VOLUME": 94.38
+  },
+  {
+    "DATA": "20/02/2019",
+    "ABERTURA": 22.36,
+    "FECHAMENTO": 22.66,
+    "VARIAÇÃO": 2.26,
+    "MÍNIMO": 22.21,
+    "MÁXIMO": 22.74,
+    "VOLUME": 171.13
+  },
+  {
+    "DATA": "19/02/2019",
+    "ABERTURA": 22.16,
+    "FECHAMENTO": 22.16,
+    "VARIAÇÃO": -0.45,
+    "MÍNIMO": 22.16,
+    "MÁXIMO": 22.49,
+    "VOLUME": 153.09
+  },
+  {
+    "DATA": "18/02/2019",
+    "ABERTURA": 22.26,
+    "FECHAMENTO": 22.26,
+    "VARIAÇÃO": -1.77,
+    "MÍNIMO": 22.03,
+    "MÁXIMO": 22.74,
+    "VOLUME": 115.71
+  },
+  {
+    "DATA": "15/02/2019",
+    "ABERTURA": 23.04,
+    "FECHAMENTO": 22.66,
+    "VARIAÇÃO": -0.7,
+    "MÍNIMO": 22.59,
+    "MÁXIMO": 23.34,
+    "VOLUME": 148.53
+  },
+  {
+    "DATA": "14/02/2019",
+    "ABERTURA": 22.69,
+    "FECHAMENTO": 22.82,
+    "VARIAÇÃO": 1.2,
+    "MÍNIMO": 22.21,
+    "MÁXIMO": 22.95,
+    "VOLUME": 139.75
+  },
+  {
+    "DATA": "13/02/2019",
+    "ABERTURA": 22.86,
+    "FECHAMENTO": 22.55,
+    "VARIAÇÃO": -3.22,
+    "MÍNIMO": 22.45,
+    "MÁXIMO": 23.18,
+    "VOLUME": 315.38
+  },
+  {
+    "DATA": "12/02/2019",
+    "ABERTURA": 23.25,
+    "FECHAMENTO": 23.3,
+    "VARIAÇÃO": 0.78,
+    "MÍNIMO": 23.22,
+    "MÁXIMO": 23.45,
+    "VOLUME": 85.9
+  },
+  {
+    "DATA": "11/02/2019",
+    "ABERTURA": 23.5,
+    "FECHAMENTO": 23.12,
+    "VARIAÇÃO": -1.62,
+    "MÍNIMO": 23,
+    "MÁXIMO": 23.5,
+    "VOLUME": 131.05
+  },
+  {
+    "DATA": "08/02/2019",
+    "ABERTURA": 23.21,
+    "FECHAMENTO": 23.5,
+    "VARIAÇÃO": 1.25,
+    "MÍNIMO": 22.95,
+    "MÁXIMO": 23.67,
+    "VOLUME": 136.82
+  },
+  {
+    "DATA": "07/02/2019",
+    "ABERTURA": 23.35,
+    "FECHAMENTO": 23.21,
+    "VARIAÇÃO": -4.01,
+    "MÍNIMO": 22.72,
+    "MÁXIMO": 23.55,
+    "VOLUME": 436.34
+  },
+  {
+    "DATA": "06/02/2019",
+    "ABERTURA": 25.15,
+    "FECHAMENTO": 24.18,
+    "VARIAÇÃO": -4.2,
+    "MÍNIMO": 24.13,
+    "MÁXIMO": 25.15,
+    "VOLUME": 192.41
+  },
+  {
+    "DATA": "05/02/2019",
+    "ABERTURA": 24.01,
+    "FECHAMENTO": 25.24,
+    "VARIAÇÃO": 6.5,
+    "MÍNIMO": 23.91,
+    "MÁXIMO": 25.33,
+    "VOLUME": 400.26
+  },
+  {
+    "DATA": "04/02/2019",
+    "ABERTURA": 23.95,
+    "FECHAMENTO": 23.7,
+    "VARIAÇÃO": -0.8,
+    "MÍNIMO": 23.67,
+    "MÁXIMO": 24.19,
+    "VOLUME": 129.93
+  },
+  {
+    "DATA": "01/02/2019",
+    "ABERTURA": 23.69,
+    "FECHAMENTO": 23.89,
+    "VARIAÇÃO": 1.49,
+    "MÍNIMO": 23.59,
+    "MÁXIMO": 24.11,
+    "VOLUME": 99.78
+  },
+  {
+    "DATA": "31/01/2019",
+    "ABERTURA": 23.86,
+    "FECHAMENTO": 23.54,
+    "VARIAÇÃO": -0.59,
+    "MÍNIMO": 23.54,
+    "MÁXIMO": 24.3,
+    "VOLUME": 130.5
+  },
+  {
+    "DATA": "30/01/2019",
+    "ABERTURA": 24.01,
+    "FECHAMENTO": 23.68,
+    "VARIAÇÃO": -0.71,
+    "MÍNIMO": 23.42,
+    "MÁXIMO": 24.2,
+    "VOLUME": 187.48
+  },
+  {
+    "DATA": "29/01/2019",
+    "ABERTURA": 24.5,
+    "FECHAMENTO": 23.85,
+    "VARIAÇÃO": -2.45,
+    "MÍNIMO": 23.85,
+    "MÁXIMO": 24.86,
+    "VOLUME": 139.92
+  },
+  {
+    "DATA": "28/01/2019",
+    "ABERTURA": 23.99,
+    "FECHAMENTO": 24.45,
+    "VARIAÇÃO": 1.07,
+    "MÍNIMO": 23.72,
+    "MÁXIMO": 24.51,
+    "VOLUME": 111.54
+  },
+  {
+    "DATA": "24/01/2019",
+    "ABERTURA": 23.74,
+    "FECHAMENTO": 24.19,
+    "VARIAÇÃO": 1.85,
+    "MÍNIMO": 23.65,
+    "MÁXIMO": 24.19,
+    "VOLUME": 118.87
+  },
+  {
+    "DATA": "23/01/2019",
+    "ABERTURA": 23.51,
+    "FECHAMENTO": 23.75,
+    "VARIAÇÃO": 2.11,
+    "MÍNIMO": 23.42,
+    "MÁXIMO": 23.97,
+    "VOLUME": 175.74
+  },
+  {
+    "DATA": "22/01/2019",
+    "ABERTURA": 24.66,
+    "FECHAMENTO": 23.26,
+    "VARIAÇÃO": -5.02,
+    "MÍNIMO": 23.19,
+    "MÁXIMO": 24.86,
+    "VOLUME": 333.12
+  },
+  {
+    "DATA": "21/01/2019",
+    "ABERTURA": 24.05,
+    "FECHAMENTO": 24.49,
+    "VARIAÇÃO": 1.83,
+    "MÍNIMO": 23.4,
+    "MÁXIMO": 24.66,
+    "VOLUME": 145.77
+  },
+  {
+    "DATA": "18/01/2019",
+    "ABERTURA": 23.65,
+    "FECHAMENTO": 24.05,
+    "VARIAÇÃO": 1.65,
+    "MÍNIMO": 23.37,
+    "MÁXIMO": 24.28,
+    "VOLUME": 248.52
+  },
+  {
+    "DATA": "17/01/2019",
+    "ABERTURA": 22.3,
+    "FECHAMENTO": 23.66,
+    "VARIAÇÃO": 6.48,
+    "MÍNIMO": 22.3,
+    "MÁXIMO": 23.76,
+    "VOLUME": 235.93
+  },
+  {
+    "DATA": "16/01/2019",
+    "ABERTURA": 22.42,
+    "FECHAMENTO": 22.22,
+    "VARIAÇÃO": -0.94,
+    "MÍNIMO": 22.2,
+    "MÁXIMO": 22.5,
+    "VOLUME": 109.68
+  },
+  {
+    "DATA": "15/01/2019",
+    "ABERTURA": 22.68,
+    "FECHAMENTO": 22.43,
+    "VARIAÇÃO": -1.06,
+    "MÍNIMO": 22.26,
+    "MÁXIMO": 22.97,
+    "VOLUME": 112.96
+  },
+  {
+    "DATA": "14/01/2019",
+    "ABERTURA": 22.9,
+    "FECHAMENTO": 22.67,
+    "VARIAÇÃO": -1.22,
+    "MÍNIMO": 22.61,
+    "MÁXIMO": 23.28,
+    "VOLUME": 133.84
+  },
+  {
+    "DATA": "11/01/2019",
+    "ABERTURA": 23.22,
+    "FECHAMENTO": 22.95,
+    "VARIAÇÃO": -2.13,
+    "MÍNIMO": 22.58,
+    "MÁXIMO": 23.45,
+    "VOLUME": 221.62
+  },
+  {
+    "DATA": "10/01/2019",
+    "ABERTURA": 23.43,
+    "FECHAMENTO": 23.45,
+    "VARIAÇÃO": -0.42,
+    "MÍNIMO": 22.97,
+    "MÁXIMO": 23.66,
+    "VOLUME": 151.09
+  },
+  {
+    "DATA": "09/01/2019",
+    "ABERTURA": 23.04,
+    "FECHAMENTO": 23.55,
+    "VARIAÇÃO": 2.7,
+    "MÍNIMO": 22.81,
+    "MÁXIMO": 23.58,
+    "VOLUME": 180.32
+  },
+  {
+    "DATA": "08/01/2019",
+    "ABERTURA": 21.6,
+    "FECHAMENTO": 22.93,
+    "VARIAÇÃO": 6.21,
+    "MÍNIMO": 21.6,
+    "MÁXIMO": 22.99,
+    "VOLUME": 193.75
+  },
+  {
+    "DATA": "07/01/2019",
+    "ABERTURA": 21.52,
+    "FECHAMENTO": 21.59,
+    "VARIAÇÃO": 0.65,
+    "MÍNIMO": 21.24,
+    "MÁXIMO": 21.75,
+    "VOLUME": 70.14
+  },
+  {
+    "DATA": "04/01/2019",
+    "ABERTURA": 21.64,
+    "FECHAMENTO": 21.45,
+    "VARIAÇÃO": -0.19,
+    "MÍNIMO": 20.91,
+    "MÁXIMO": 21.79,
+    "VOLUME": 170.81
+  },
+  {
+    "DATA": "03/01/2019",
+    "ABERTURA": 22.45,
+    "FECHAMENTO": 21.49,
+    "VARIAÇÃO": -3.98,
+    "MÍNIMO": 21.32,
+    "MÁXIMO": 22.76,
+    "VOLUME": 180.19
+  },
+  {
+    "DATA": "02/01/2019",
+    "ABERTURA": 21.95,
+    "FECHAMENTO": 22.38,
+    "VARIAÇÃO": 2.05,
+    "MÍNIMO": 21.85,
+    "MÁXIMO": 22.69,
+    "VOLUME": 103.27
+  },
+  {
+    "DATA": "28/12/2018",
+    "ABERTURA": 21.85,
+    "FECHAMENTO": 21.93,
+    "VARIAÇÃO": 1.39,
+    "MÍNIMO": 21.74,
+    "MÁXIMO": 22.18,
+    "VOLUME": 83.5
+  },
+  {
+    "DATA": "27/12/2018",
+    "ABERTURA": 21.79,
+    "FECHAMENTO": 21.63,
+    "VARIAÇÃO": -1.23,
+    "MÍNIMO": 21.55,
+    "MÁXIMO": 22,
+    "VOLUME": 55.75
+  },
+  {
+    "DATA": "26/12/2018",
+    "ABERTURA": 21.81,
+    "FECHAMENTO": 21.9,
+    "VARIAÇÃO": -0.77,
+    "MÍNIMO": 21.5,
+    "MÁXIMO": 22.2,
+    "VOLUME": 69.91
+  },
+  {
+    "DATA": "21/12/2018",
+    "ABERTURA": 22.52,
+    "FECHAMENTO": 22.07,
+    "VARIAÇÃO": -1.91,
+    "MÍNIMO": 21.82,
+    "MÁXIMO": 22.64,
+    "VOLUME": 123.43
+  },
+  {
+    "DATA": "20/12/2018",
+    "ABERTURA": 22.8,
+    "FECHAMENTO": 22.5,
+    "VARIAÇÃO": -1.1,
+    "MÍNIMO": 22.13,
+    "MÁXIMO": 23.05,
+    "VOLUME": 85.41
+  },
+  {
+    "DATA": "19/12/2018",
+    "ABERTURA": 23.47,
+    "FECHAMENTO": 22.75,
+    "VARIAÇÃO": -2.36,
+    "MÍNIMO": 22.75,
+    "MÁXIMO": 23.58,
+    "VOLUME": 111.5
+  },
+  {
+    "DATA": "18/12/2018",
+    "ABERTURA": 23.2,
+    "FECHAMENTO": 23.3,
+    "VARIAÇÃO": 1.3,
+    "MÍNIMO": 23.08,
+    "MÁXIMO": 23.48,
+    "VOLUME": 125.42
+  },
+  {
+    "DATA": "17/12/2018",
+    "ABERTURA": 23.18,
+    "FECHAMENTO": 23,
+    "VARIAÇÃO": 0,
+    "MÍNIMO": 22.73,
+    "MÁXIMO": 23.38,
+    "VOLUME": 146.48
+  },
+  {
+    "DATA": "14/12/2018",
+    "ABERTURA": 22.5,
+    "FECHAMENTO": 23,
+    "VARIAÇÃO": 1.41,
+    "MÍNIMO": 22.39,
+    "MÁXIMO": 23.35,
+    "VOLUME": 146.87
+  },
+  {
+    "DATA": "13/12/2018",
+    "ABERTURA": 22.25,
+    "FECHAMENTO": 22.68,
+    "VARIAÇÃO": 2.21,
+    "MÍNIMO": 22.11,
+    "MÁXIMO": 22.79,
+    "VOLUME": 107.2
+  },
+  {
+    "DATA": "12/12/2018",
+    "ABERTURA": 21.7,
+    "FECHAMENTO": 22.19,
+    "VARIAÇÃO": 3.21,
+    "MÍNIMO": 21.32,
+    "MÁXIMO": 22.26,
+    "VOLUME": 109.11
+  },
+  {
+    "DATA": "11/12/2018",
+    "ABERTURA": 22.11,
+    "FECHAMENTO": 21.5,
+    "VARIAÇÃO": -1.1,
+    "MÍNIMO": 21.28,
+    "MÁXIMO": 22.2,
+    "VOLUME": 94.33
+  },
+  {
+    "DATA": "10/12/2018",
+    "ABERTURA": 22.78,
+    "FECHAMENTO": 21.74,
+    "VARIAÇÃO": -4.65,
+    "MÍNIMO": 21.74,
+    "MÁXIMO": 22.9,
+    "VOLUME": 97.39
+  },
+  {
+    "DATA": "07/12/2018",
+    "ABERTURA": 23.11,
+    "FECHAMENTO": 22.8,
+    "VARIAÇÃO": -1.21,
+    "MÍNIMO": 22.7,
+    "MÁXIMO": 23.27,
+    "VOLUME": 102.04
+  },
+  {
+    "DATA": "06/12/2018",
+    "ABERTURA": 23.01,
+    "FECHAMENTO": 23.08,
+    "VARIAÇÃO": -1.16,
+    "MÍNIMO": 22.6,
+    "MÁXIMO": 23.54,
+    "VOLUME": 149.51
+  },
+  {
+    "DATA": "05/12/2018",
+    "ABERTURA": 22.61,
+    "FECHAMENTO": 23.35,
+    "VARIAÇÃO": 4.24,
+    "MÍNIMO": 22.22,
+    "MÁXIMO": 23.36,
+    "VOLUME": 129.28
+  },
+  {
+    "DATA": "04/12/2018",
+    "ABERTURA": 22.7,
+    "FECHAMENTO": 22.4,
+    "VARIAÇÃO": -0.67,
+    "MÍNIMO": 22.2,
+    "MÁXIMO": 22.98,
+    "VOLUME": 149.48
+  },
+  {
+    "DATA": "03/12/2018",
+    "ABERTURA": 22.6,
+    "FECHAMENTO": 22.55,
+    "VARIAÇÃO": 1.71,
+    "MÍNIMO": 22.49,
+    "MÁXIMO": 23.06,
+    "VOLUME": 622.46
+  },
+  {
+    "DATA": "30/11/2018",
+    "ABERTURA": 22.5,
+    "FECHAMENTO": 22.17,
+    "VARIAÇÃO": -1.47,
+    "MÍNIMO": 22.09,
+    "MÁXIMO": 22.75,
+    "VOLUME": 150.08
+  },
+  {
+    "DATA": "29/11/2018",
+    "ABERTURA": 22,
+    "FECHAMENTO": 22.5,
+    "VARIAÇÃO": 1.9,
+    "MÍNIMO": 21.82,
+    "MÁXIMO": 22.5,
+    "VOLUME": 88.08
+  },
+  {
+    "DATA": "28/11/2018",
+    "ABERTURA": 22,
+    "FECHAMENTO": 22.08,
+    "VARIAÇÃO": 0.09,
+    "MÍNIMO": 21.81,
+    "MÁXIMO": 22.4,
+    "VOLUME": 125.16
+  },
+  {
+    "DATA": "27/11/2018",
+    "ABERTURA": 21.82,
+    "FECHAMENTO": 22.06,
+    "VARIAÇÃO": 1.19,
+    "MÍNIMO": 21.74,
+    "MÁXIMO": 22.29,
+    "VOLUME": 128.6
+  },
+  {
+    "DATA": "26/11/2018",
+    "ABERTURA": 21.8,
+    "FECHAMENTO": 21.8,
+    "VARIAÇÃO": 0.74,
+    "MÍNIMO": 21.62,
+    "MÁXIMO": 22.28,
+    "VOLUME": 142.86
+  },
+  {
+    "DATA": "23/11/2018",
+    "ABERTURA": 22.39,
+    "FECHAMENTO": 21.64,
+    "VARIAÇÃO": -3.82,
+    "MÍNIMO": 21.62,
+    "MÁXIMO": 22.48,
+    "VOLUME": 155.5
+  },
+  {
+    "DATA": "22/11/2018",
+    "ABERTURA": 21.18,
+    "FECHAMENTO": 22.5,
+    "VARIAÇÃO": 6.38,
+    "MÍNIMO": 21.16,
+    "MÁXIMO": 22.55,
+    "VOLUME": 188.94
+  },
+  {
+    "DATA": "21/11/2018",
+    "ABERTURA": 21.15,
+    "FECHAMENTO": 21.15,
+    "VARIAÇÃO": 4.91,
+    "MÍNIMO": 19.75,
+    "MÁXIMO": 21.34,
+    "VOLUME": 176.52
+  },
+  {
+    "DATA": "19/11/2018",
+    "ABERTURA": 20.3,
+    "FECHAMENTO": 20.16,
+    "VARIAÇÃO": -0.69,
+    "MÍNIMO": 19.9,
+    "MÁXIMO": 20.32,
+    "VOLUME": 75.88
+  },
+  {
+    "DATA": "16/11/2018",
+    "ABERTURA": 20.2,
+    "FECHAMENTO": 20.3,
+    "VARIAÇÃO": 1.05,
+    "MÍNIMO": 19.7,
+    "MÁXIMO": 20.38,
+    "VOLUME": 76.44
+  },
+  {
+    "DATA": "14/11/2018",
+    "ABERTURA": 19.66,
+    "FECHAMENTO": 20.09,
+    "VARIAÇÃO": 1.62,
+    "MÍNIMO": 19.19,
+    "MÁXIMO": 20.18,
+    "VOLUME": 150.19
+  },
+  {
+    "DATA": "13/11/2018",
+    "ABERTURA": 19.96,
+    "FECHAMENTO": 19.77,
+    "VARIAÇÃO": -0.95,
+    "MÍNIMO": 19.13,
+    "MÁXIMO": 20.1,
+    "VOLUME": 144.38
+  },
+  {
+    "DATA": "12/11/2018",
+    "ABERTURA": 20.55,
+    "FECHAMENTO": 19.96,
+    "VARIAÇÃO": -2.97,
+    "MÍNIMO": 19.86,
+    "MÁXIMO": 20.8,
+    "VOLUME": 125.41
+  },
+  {
+    "DATA": "09/11/2018",
+    "ABERTURA": 21.06,
+    "FECHAMENTO": 20.57,
+    "VARIAÇÃO": -2.05,
+    "MÍNIMO": 20.32,
+    "MÁXIMO": 21.11,
+    "VOLUME": 117.58
+  },
+  {
+    "DATA": "08/11/2018",
+    "ABERTURA": 21.3,
+    "FECHAMENTO": 21,
+    "VARIAÇÃO": -5.58,
+    "MÍNIMO": 21,
+    "MÁXIMO": 22.05,
+    "VOLUME": 150.5
+  },
+  {
+    "DATA": "07/11/2018",
+    "ABERTURA": 22.16,
+    "FECHAMENTO": 22.24,
+    "VARIAÇÃO": 1.09,
+    "MÍNIMO": 22.15,
+    "MÁXIMO": 22.45,
+    "VOLUME": 89.65
+  },
+  {
+    "DATA": "06/11/2018",
+    "ABERTURA": 22.11,
+    "FECHAMENTO": 22,
+    "VARIAÇÃO": -0.09,
+    "MÍNIMO": 21.77,
+    "MÁXIMO": 22.34,
+    "VOLUME": 80.49
+  },
+  {
+    "DATA": "05/11/2018",
+    "ABERTURA": 22.3,
+    "FECHAMENTO": 22.02,
+    "VARIAÇÃO": -0.86,
+    "MÍNIMO": 21.96,
+    "MÁXIMO": 22.69,
+    "VOLUME": 143.06
+  },
+  {
+    "DATA": "01/11/2018",
+    "ABERTURA": 22.1,
+    "FECHAMENTO": 22.21,
+    "VARIAÇÃO": 1.42,
+    "MÍNIMO": 21.95,
+    "MÁXIMO": 22.54,
+    "VOLUME": 113.09
+  },
+  {
+    "DATA": "31/10/2018",
+    "ABERTURA": 21.4,
+    "FECHAMENTO": 21.9,
+    "VARIAÇÃO": 3.45,
+    "MÍNIMO": 21.4,
+    "MÁXIMO": 22.5,
+    "VOLUME": 268.43
+  },
+  {
+    "DATA": "30/10/2018",
+    "ABERTURA": 20.5,
+    "FECHAMENTO": 21.17,
+    "VARIAÇÃO": 4.75,
+    "MÍNIMO": 20.3,
+    "MÁXIMO": 21.46,
+    "VOLUME": 151.89
+  },
+  {
+    "DATA": "29/10/2018",
+    "ABERTURA": 21,
+    "FECHAMENTO": 20.21,
+    "VARIAÇÃO": -1.32,
+    "MÍNIMO": 20.11,
+    "MÁXIMO": 21.33,
+    "VOLUME": 165.74
+  },
+  {
+    "DATA": "26/10/2018",
+    "ABERTURA": 20.2,
+    "FECHAMENTO": 20.48,
+    "VARIAÇÃO": 1.64,
+    "MÍNIMO": 20.12,
+    "MÁXIMO": 20.62,
+    "VOLUME": 104.77
+  },
+  {
+    "DATA": "25/10/2018",
+    "ABERTURA": 20.26,
+    "FECHAMENTO": 20.15,
+    "VARIAÇÃO": 0.1,
+    "MÍNIMO": 20.1,
+    "MÁXIMO": 20.49,
+    "VOLUME": 101.41
+  },
+  {
+    "DATA": "24/10/2018",
+    "ABERTURA": 20.5,
+    "FECHAMENTO": 20.13,
+    "VARIAÇÃO": -2,
+    "MÍNIMO": 20.08,
+    "MÁXIMO": 20.75,
+    "VOLUME": 67.28
+  },
+  {
+    "DATA": "23/10/2018",
+    "ABERTURA": 20.5,
+    "FECHAMENTO": 20.54,
+    "VARIAÇÃO": -0.39,
+    "MÍNIMO": 20.09,
+    "MÁXIMO": 20.61,
+    "VOLUME": 83.75
+  },
+  {
+    "DATA": "22/10/2018",
+    "ABERTURA": 20.53,
+    "FECHAMENTO": 20.62,
+    "VARIAÇÃO": 1.23,
+    "MÍNIMO": 20.4,
+    "MÁXIMO": 20.78,
+    "VOLUME": 53.4
+  },
+  {
+    "DATA": "19/10/2018",
+    "ABERTURA": 20.3,
+    "FECHAMENTO": 20.37,
+    "VARIAÇÃO": 0.79,
+    "MÍNIMO": 20.3,
+    "MÁXIMO": 20.6,
+    "VOLUME": 67.93
+  },
+  {
+    "DATA": "18/10/2018",
+    "ABERTURA": 20.59,
+    "FECHAMENTO": 20.21,
+    "VARIAÇÃO": -1.37,
+    "MÍNIMO": 20.16,
+    "MÁXIMO": 20.64,
+    "VOLUME": 80.64
+  },
+  {
+    "DATA": "17/10/2018",
+    "ABERTURA": 20.37,
+    "FECHAMENTO": 20.49,
+    "VARIAÇÃO": 0.54,
+    "MÍNIMO": 20.16,
+    "MÁXIMO": 20.67,
+    "VOLUME": 76.6
+  },
+  {
+    "DATA": "16/10/2018",
+    "ABERTURA": 19.89,
+    "FECHAMENTO": 20.38,
+    "VARIAÇÃO": 1.14,
+    "MÍNIMO": 19.88,
+    "MÁXIMO": 20.44,
+    "VOLUME": 84.82
+  },
+  {
+    "DATA": "15/10/2018",
+    "ABERTURA": 20.79,
+    "FECHAMENTO": 20.15,
+    "VARIAÇÃO": -1.42,
+    "MÍNIMO": 20,
+    "MÁXIMO": 20.79,
+    "VOLUME": 77.17
+  },
+  {
+    "DATA": "11/10/2018",
+    "ABERTURA": 20.83,
+    "FECHAMENTO": 20.44,
+    "VARIAÇÃO": -0.49,
+    "MÍNIMO": 19.84,
+    "MÁXIMO": 20.83,
+    "VOLUME": 127.05
+  },
+  {
+    "DATA": "10/10/2018",
+    "ABERTURA": 21.5,
+    "FECHAMENTO": 20.54,
+    "VARIAÇÃO": -5.13,
+    "MÍNIMO": 20.52,
+    "MÁXIMO": 21.5,
+    "VOLUME": 131.88
+  },
+  {
+    "DATA": "09/10/2018",
+    "ABERTURA": 22.55,
+    "FECHAMENTO": 21.65,
+    "VARIAÇÃO": -3.65,
+    "MÍNIMO": 21.65,
+    "MÁXIMO": 22.55,
+    "VOLUME": 181.32
+  },
+  {
+    "DATA": "08/10/2018",
+    "ABERTURA": 23.16,
+    "FECHAMENTO": 22.47,
+    "VARIAÇÃO": -0.09,
+    "MÍNIMO": 21.97,
+    "MÁXIMO": 23.57,
+    "VOLUME": 191.39
+  },
+  {
+    "DATA": "05/10/2018",
+    "ABERTURA": 22.02,
+    "FECHAMENTO": 22.49,
+    "VARIAÇÃO": 3.02,
+    "MÍNIMO": 21.64,
+    "MÁXIMO": 22.66,
+    "VOLUME": 99.08
+  },
+  {
+    "DATA": "04/10/2018",
+    "ABERTURA": 22.3,
+    "FECHAMENTO": 21.83,
+    "VARIAÇÃO": -2.54,
+    "MÍNIMO": 21.54,
+    "MÁXIMO": 22.3,
+    "VOLUME": 96.03
+  },
+  {
+    "DATA": "03/10/2018",
+    "ABERTURA": 22.65,
+    "FECHAMENTO": 22.4,
+    "VARIAÇÃO": 0.9,
+    "MÍNIMO": 22.28,
+    "MÁXIMO": 22.89,
+    "VOLUME": 111.38
+  },
+  {
+    "DATA": "02/10/2018",
+    "ABERTURA": 22.14,
+    "FECHAMENTO": 22.2,
+    "VARIAÇÃO": 1.51,
+    "MÍNIMO": 21.83,
+    "MÁXIMO": 22.47,
+    "VOLUME": 137.83
+  },
+  {
+    "DATA": "01/10/2018",
+    "ABERTURA": 22,
+    "FECHAMENTO": 21.87,
+    "VARIAÇÃO": -0.46,
+    "MÍNIMO": 21.65,
+    "MÁXIMO": 22.18,
+    "VOLUME": 54.1
+  },
+  {
+    "DATA": "28/09/2018",
+    "ABERTURA": 21.82,
+    "FECHAMENTO": 21.97,
+    "VARIAÇÃO": -0.77,
+    "MÍNIMO": 21.65,
+    "MÁXIMO": 22.06,
+    "VOLUME": 117.4
+  },
+  {
+    "DATA": "27/09/2018",
+    "ABERTURA": 22.2,
+    "FECHAMENTO": 22.14,
+    "VARIAÇÃO": -0.32,
+    "MÍNIMO": 22.01,
+    "MÁXIMO": 22.48,
+    "VOLUME": 97.51
+  },
+  {
+    "DATA": "26/09/2018",
+    "ABERTURA": 21.23,
+    "FECHAMENTO": 22.21,
+    "VARIAÇÃO": 5.21,
+    "MÍNIMO": 21.12,
+    "MÁXIMO": 22.34,
+    "VOLUME": 130.3
+  },
+  {
+    "DATA": "25/09/2018",
+    "ABERTURA": 21.01,
+    "FECHAMENTO": 21.11,
+    "VARIAÇÃO": -0.8,
+    "MÍNIMO": 20.74,
+    "MÁXIMO": 21.34,
+    "VOLUME": 104.61
+  },
+  {
+    "DATA": "24/09/2018",
+    "ABERTURA": 21.98,
+    "FECHAMENTO": 21.28,
+    "VARIAÇÃO": -2.96,
+    "MÍNIMO": 21.26,
+    "MÁXIMO": 21.98,
+    "VOLUME": 58.31
+  },
+  {
+    "DATA": "21/09/2018",
+    "ABERTURA": 21.7,
+    "FECHAMENTO": 21.93,
+    "VARIAÇÃO": 1.53,
+    "MÍNIMO": 21.5,
+    "MÁXIMO": 21.93,
+    "VOLUME": 99.95
+  },
+  {
+    "DATA": "20/09/2018",
+    "ABERTURA": 22,
+    "FECHAMENTO": 21.6,
+    "VARIAÇÃO": -0.74,
+    "MÍNIMO": 21.14,
+    "MÁXIMO": 22.05,
+    "VOLUME": 70.91
+  },
+  {
+    "DATA": "19/09/2018",
+    "ABERTURA": 21.79,
+    "FECHAMENTO": 21.76,
+    "VARIAÇÃO": -1.27,
+    "MÍNIMO": 21.59,
+    "MÁXIMO": 22.06,
+    "VOLUME": 54.73
+  },
+  {
+    "DATA": "18/09/2018",
+    "ABERTURA": 21.95,
+    "FECHAMENTO": 22.04,
+    "VARIAÇÃO": 0.87,
+    "MÍNIMO": 21.75,
+    "MÁXIMO": 22.29,
+    "VOLUME": 124.31
+  },
+  {
+    "DATA": "17/09/2018",
+    "ABERTURA": 21,
+    "FECHAMENTO": 21.85,
+    "VARIAÇÃO": 6.64,
+    "MÍNIMO": 20.93,
+    "MÁXIMO": 21.98,
+    "VOLUME": 160.81
+  },
+  {
+    "DATA": "14/09/2018",
+    "ABERTURA": 20.4,
+    "FECHAMENTO": 20.49,
+    "VARIAÇÃO": -0.58,
+    "MÍNIMO": 20.13,
+    "MÁXIMO": 20.7,
+    "VOLUME": 63.38
+  },
+  {
+    "DATA": "13/09/2018",
+    "ABERTURA": 20.83,
+    "FECHAMENTO": 20.61,
+    "VARIAÇÃO": -1.15,
+    "MÍNIMO": 20.37,
+    "MÁXIMO": 20.94,
+    "VOLUME": 74.42
+  },
+  {
+    "DATA": "12/09/2018",
+    "ABERTURA": 21.72,
+    "FECHAMENTO": 20.85,
+    "VARIAÇÃO": -3.61,
+    "MÍNIMO": 20.8,
+    "MÁXIMO": 21.84,
+    "VOLUME": 109.96
+  },
+  {
+    "DATA": "11/09/2018",
+    "ABERTURA": 21.3,
+    "FECHAMENTO": 21.63,
+    "VARIAÇÃO": -0.09,
+    "MÍNIMO": 21.2,
+    "MÁXIMO": 21.68,
+    "VOLUME": 83.69
+  },
+  {
+    "DATA": "10/09/2018",
+    "ABERTURA": 21.54,
+    "FECHAMENTO": 21.65,
+    "VARIAÇÃO": 0.6,
+    "MÍNIMO": 21.4,
+    "MÁXIMO": 21.88,
+    "VOLUME": 100.57
+  },
+  {
+    "DATA": "06/09/2018",
+    "ABERTURA": 21.34,
+    "FECHAMENTO": 21.52,
+    "VARIAÇÃO": 1.27,
+    "MÍNIMO": 21.05,
+    "MÁXIMO": 21.59,
+    "VOLUME": 79.8
+  },
+  {
+    "DATA": "05/09/2018",
+    "ABERTURA": 20.9,
+    "FECHAMENTO": 21.25,
+    "VARIAÇÃO": 1.05,
+    "MÍNIMO": 20.73,
+    "MÁXIMO": 21.45,
+    "VOLUME": 108.95
+  },
+  {
+    "DATA": "04/09/2018",
+    "ABERTURA": 20.4,
+    "FECHAMENTO": 21.03,
+    "VARIAÇÃO": 3.09,
+    "MÍNIMO": 20.21,
+    "MÁXIMO": 21.13,
+    "VOLUME": 159.87
+  },
+  {
+    "DATA": "03/09/2018",
+    "ABERTURA": 19.94,
+    "FECHAMENTO": 20.4,
+    "VARIAÇÃO": 1.34,
+    "MÍNIMO": 19.85,
+    "MÁXIMO": 20.5,
+    "VOLUME": 69.74
+  },
+  {
+    "DATA": "31/08/2018",
+    "ABERTURA": 19.77,
+    "FECHAMENTO": 20.13,
+    "VARIAÇÃO": 1.98,
+    "MÍNIMO": 19.61,
+    "MÁXIMO": 20.24,
+    "VOLUME": 100.42
+  }
+]
