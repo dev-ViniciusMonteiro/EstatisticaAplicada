@@ -14,3 +14,4 @@ Estatística aplicada a ciência de dados
 x- functtion de primeiro grau                                                                                                               
 - margeSort - margeSort.js                                                                                                                             
 - menor distancia entre dois pontos em um plano cartesiano - menorDistanciaDoisPontos.js                                                                     
+- recebo um json para analizar os dados
