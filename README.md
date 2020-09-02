@@ -15,3 +15,5 @@ x- functtion de primeiro grau
 - margeSort - margeSort.js                                                                                                                             
 - menor distancia entre dois pontos em um plano cartesiano - menorDistanciaDoisPontos.js                                                                     
 - recebo um json para analizar os dados
+- analiso com a funtion que rotrna por foca bruta o maior e menor
+
